@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2021">
+  <meta name="description" content="The Tri-Valley Stargazers contacts">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Contacts</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "December 22, 2024";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_contacts { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+    <h1 class="title">Contacts</h1>
+
+    <div class="content" style="width:50em; font-weight:bold;">
+    <!-- XXX change CSS for div.content?  if so, how does it affect newsletter?  and what's the right width anyhow? -->
+
+
+     <h2 class="subtitle">Officers 2025 </h2>
+     <script type="text/javascript">
+      <!--
+       contact("president",      "trivalleystargazers.org",     "Eric Dueltgen",            "President");
+       contact("vice_president", "trivalleystargazers.org",     "Aris Pope",       "Vice President");
+       contact("treasurer",      "trivalleystargazers.org",     "John Forrest",        "Treasurer");
+       contact("secretary",      "trivalleystargazers.org",     "Dave Lackey",         "Secretary");
+      //-->
+     </script>
+     <br><br>
+
+     <h2 class="subtitle">Board Members</h2>
+     <script type="text/javascript">
+      <!--
+       contact("past_president", "trivalleystargazers.org",	"Ron Kane",	"Past President");
+       contact("astrophotography", "trivalleystargazers.org",	"Gert Gottschalk",	"At Large");
+       contact("observatory",	"trivalleystargazers.org",	"Chuck Grant",		"At Large");''
+       contact("webmaster",	"trivalleystargazers.org",	"Swaroop Shere",	       	"At Large");
+       //contact("programs",	"trivalleystargazers.org",	"Dan Helmer",		"At Large");
+     <!--  contact("publicity",	"trivalleystargazers.org",	"Open",	  		"At Large");  -->
+     <!--   contact("email",	"gmail.com",                   	"Name ",		"At Large");  -->
+      //-->
+     </script>
+     <br><br>
+
+     <h2 class="subtitle">Volunteer Positions</h2>
+     <script type="text/javascript">
+      <!--
+       contact("alrep",		"trivalleystargazers.org",	"Don Dossa",			"Astronomical League Representative");
+       contact("delvalle",	"trivalleystargazers.org",	"David Wright", 	"Del Valle Coordinator");
+       contact("historian",	"trivalleystargazers.org",	"Open",     	        "Historian");
+       contact("librarian",	"trivalleystargazers.org",	"Ron Kane",	 	"Librarian");
+       contact("telescopes", 	"trivalleystargazers.org",	"Ron Kane",		"Loaner Scope Manager");
+       contact("nnsn",		"trivalleystargazers.org",	"Ross Gaunt",		"Night Sky Network Representative");
+       contact("newsletter",	"trivalleystargazers.org",	"Scott Schneider",		"Newsletter Editor");
+       contact("saanikakulkarni", "gmail.com",	     	        "Saanika Kulkarni",	"Contributing Editor");
+       contact("observatory",	"trivalleystargazers.org",	"Chuck Grant",		"Observatory Director / Rebuild Chairman");
+       contact("H2O-Events",	"trivalleystargazers.org",	"Ross Gaunt",		"Observatory Co-Director");
+       contact("potluck",	"trivalleystargazers.org",	"Ron Kane", 		"Potluck Coordinator");
+       contact("programs",	"trivalleystargazers.org",	"Ron Kane",		"Programs");
+       contact("publicity",	"trivalleystargazers.org",	"Open",			"Publicity and Fundraising");
+       contact("", 		"", 				"Open",			"Refreshments");
+       contact("coordinator",	"trivalleystargazers.org",	"Eric Dueltgen",	"Star Party Coordinator");
+       contact("webmaster", 	"trivalleystargazers.org",	"Swaroop Shere",	"Webmaster");
+      //-->
+     </script>
+     <br><br>
+
+     <h2 class="subtitle">Member Astrophoto Links</h2>
+     Here are links to some of the fine astrophotos taken by TVS members, past and present:<br><br>
+     <a href="http://denizdemirci.ca/" target="_blank" title="Deniz's Web Page">Deniz Demirci</a><br> 
+     <a href="http://www.trivalleystargazers.org/gert/Astro_en.htm" target="_blank" title="Gert's Astrophoto Page">Gert Gottschalk</a><br>
+     <a href="http://www.darklights.org/gallery" target="_blank" title="Hilary's Astrophoto Page">Hilary Jones</a><br>
+     <a href="http://www.milkywaysky.com/" target="_blank" title="Axel's Milky Way Page">Axel Mellinger</a><br>
+     <a href="http://www.trivalleystargazers.org/ken/index.html" target="_blank" title="Ken's Astrophoto Page">Ken Sperber</a><br>
+     <a href="http://astrophotography.aa6g.org/" target="_blank" title="Chuck's Astrophoto Page">Chuck Vaughn</a><br><br><br>
+    </div>		<!-- end div class=content -->
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>

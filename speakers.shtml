@@ -1,0 +1,613 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2015">
+  <meta name="description" content="The Tri-Valley Stargazers calendar">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy, speakers, presentations">
+  <title>Tri-Valley Stargazers Speakers</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "Jan 12, 2024";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_about { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <a name="Anchor"></a>
+  <h1 class="title">Speakers</h1>
+
+   <table style="font-size:13px; font-family:Arial; font-color:black;" border="0" cellpadding="0" cellspacing="4">
+     <tbody>
+       <tr>
+        <td colspan="3" style="font-size:18px;color:#000066;">
+           <h2 class="subtitle">Past Meetings</h2>
+        </td>
+       </tr>
+       <tr>
+         <!-- The following dummy rows establish the sizes for the rest of the meeting entries -->
+         <td style="width:78px;">&nbsp;</td>
+         <td style="width:20px;">&nbsp;</td>
+         <td>&nbsp;</td>
+       </tr>
+
+<!-- Start of year -->
+<tr>
+  <td colspan="3"><h3 class="subtitle">TVS Meetings 2024</h3></td>
+</tr>
+<script type="text/javascript">
+<!--
+   presentation("January", "19", "Robert Reeves", "Postcards from the Moon");
+   presentation("February", "23", "Dr. Luke Leisman", "The Search for (Almost) Starless Galaxies"); 
+   presentation("March", "22", "Don Dossa, PhD", "Copernican Astronomy Before Copernicus");
+   presentation("April", "19", "Many Presenters", "Solar Eclipse member presentations");
+   presentation("May", "17", "Ross Gaunt", "Review and Comparison of Smart Telescopes");
+   presentation("June", "21", "Summer Potluck BBQ");
+   presentation("July", "19", "Dr. Thomas Barclay", "The Pandora SmallSat: Characterizing exoplanet from a low-cost space telescope");
+   presentation("August", "16", "null", "null");
+   presentation("September", "20", "Frank Ravizza", "Deep Purple: LLNL UV and SWIR sensor for NASA CubeSat")
+</script>
+ <tr>
+   <td colspan="3">
+     <p><a href="#Anchor">Return to Top</a></p><br>
+   </td>
+ </tr>
+</tr>
+<!-- End of year -->
+
+<!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2023</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!-- 
+    presentation("January", "20", "Dr. Julitte Becker", "Planet Formation from a Dynamical Perspective");
+	  presentation("February", "17", " Dr. Mark Moretto", "Comets: What Are They, Why Do We Care, and How Do We Visit Them?");
+	  presentation("March", "17", "Dr. Lauren Woolsey", "Unlocking the Sun: Spectroscopy in the 1800's");
+	  presentation("April", "15", "Ted Blank", "Mankind's Wright Brothers Moment on Mars", "https://www.youtube.com/watch?v=J3otMN7ucKg");
+	  presentation("May", "19", null, "");
+	  presentation("June", "16", null, "Summer Potluck BBQ");
+	  presentation("July", "21", null, "");
+	  presentation("August", "18", "Brother Guy Consolmagno", "Discarded Worlds: Astronomical ideas that were almost correct...","ZoomVideos/BrotherGuy.mp4");
+          presentation("September", "15","Rob French", "13 Years at Saturn - Saturn's Rings as Revealed by the Cassini Orbiter");
+          presentation("October", "20", "M Josh Roberts", "To the Edge and Back - Exploring a Virtual Universe");
+          presentation("November", "17", "Rob Hawley", "How to Photograph an Eclipse","ZoomVideos/Rob_Hawley_eclipses.mp4" );
+          presentation("December", "15", null, "Soltice Potluck");
+
+       </script>
+        <tr>
+          <td colspan="3">
+            <p><a href="#Anchor">Return to Top</a></p><br>
+          </td>
+        </tr>
+ </tr>
+       <!-- End of year -->
+
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2022</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+          presentation("January", "21", "Mark Rose", "VIPER: The Volatiles Investigating Polar Exploration Rover - Resource mapping on the lunar south pole.");
+	  presentation("February", "18", "Megan Eckart", "X-ray astrophysics enabled by microcalorimeter spectrometers");
+	  presentation("March", "18", "Gianpaolo Carosi", "Tuning into Dark Matter with the ADMX Experiment");
+	  presentation("April", "15", "Dr. Dana McGuffin", "Observing the Upper-Atmosphere with Satellite Stellar Occultation Measurements");
+	  presentation("May", "20", "Dwight Lanpher", "History of Astronomy - Leviathon of Parsontown");
+	  presentation("June", "21", null, "Summer Potluck BBQ");
+	  presentation("July", "15", "Don Machholz", "Visual Comet Hunting");
+	  presentation("August", "19", " Eric Dueltgen", "An Introduction to telescopes");
+          presentation("September", "19", " Dr. David Dearborn", "The Evolution from Missing to Dark");
+          presentation("October", "16", " Dr. Alison Nordt", "Near Infrared Camera on the James Webb Space Telescope");
+          presentation("November", "19", " Dr. Jeff Rich", "Pulling Back the Dusty Curtain on Luminous Infrared Galaxies");
+          presentation("December", "19", null, "Soltice Potluck");
+
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2021</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+          presentation("January", "15", "Dr. Matthew Shetrone", "Galactic Archaeology: Uncovering the construction of the Milky Way");
+	  presentation("February", "19", "David Childree", 'Building an 18" f/4.5 Newtonian on a GEM');
+	  presentation("March", "19", "Ted Blank", "The Detection and Confirmation of Gravitational Waves");
+	  presentation("April", "16", "Jon Rees", "Lick Observatory Back On Sky: 2020 Wildfire Recovery");
+	  presentation("May", "21", "John W. Briggs", "A Walking Tour of Optical History -- Artifacts and Anecdotes from the Astronomical Lyceum");
+	  presentation("June", "18", "Curtis Macchioni", "Power for Astronomy Away from Home", "talks/2021-06-18.pptx");
+	  presentation("July", "16", "Dr. Pascal Lee", "N~1: Alone in the Milky Way");
+	  presentation("August", "20", "Gary Kader", "Seeing Double: Observing Double Stars for Fun and Science");
+	  presentation("September", "17", "Rachel Freed", "Astronomy - From Passion to Profession");
+	  presentation("October", "15", "Dr. Jon Jenkins", "Chasing Shadows in the Night: How NASA�s Kepler and TESS Missions Are Revolutionizing Exoplanet Science");
+	  presentation("November", "19", "Gert Gottschalk", "Introduction to modern narrow band filters");
+	  presentation("", "", "Kai Yung", "Coloring with Narrowband Images using Pixel Math");
+	  presentation("December", "17", "Konstantin Batygin", "Planet Nine from Outer Space: A Status Update");
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2020</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+          presentation("January", "17", "Matthew P. Kroonblawd", "Did comet impacts jump-start life on Earth?");
+	          presentation("", "", "Ken Sperber", "What's up: Lunar Occultation of Mars", "talks/2020-01-17a.pdf");
+	  presentation("February", "21", "Dr. Larry Lapin", "Securing Earth from Space Threats &amp; Climate-Change Effects");
+	          presentation("", "", "Roland Albers", "What's Up: Canis Major Star Clusters", "talks/2020-02-17a.pptx");
+	  presentation("March", "20", null, "Meeting CANCELLED");
+	  presentation("April", "17", "Reto Trappitsch", "Starry Messengers: Analyzing Stardust to Decipher the Cosmic Element Factory", "talks/2020-04-17.pdf");
+	          presentation("", "", "Ron Kane", "What's up: Comet Atlas", "talks/2020-04-17a.pptx");
+	  presentation("May", "15",  "Curtis Macchioni", "Is there a Star Party in Your Future?   There Should Be!", "talks/2020-05-15.pdf");
+	          presentation("", "", "Craig Siders", "What's up: Planets and Comets", "talks/2020-05-15a.pdf");
+	  presentation("June", "19", "Dr. Elinor Gates", "Lick Observatory During Pandemic Times: 1918 and 2020");
+	  presentation("July", "17", "Dr. Matt Horsley", "Nanosat-based Stellar Occultation: Developing inexpensive methods to observe atmospheric gravity waves and high-altitude turbulence");
+	  presentation("August", "21", "Dr. Natalie Hell", "Mapping the cloudy skies of a galactic black hole with the help of laboratory measurements", "talks/2020-08-21.pdf");
+	  presentation("September", "18", "Dr. Willem de Vries", "Science with a tiny Space Telescope");
+	  presentation("October", "16", "Jim Shirley", "Solar System Dynamics and the Triggering of the Martian Planet-Encircling Dust Storm of 2018", "talks/2020-10-16.pdf");
+	  presentation("November", "20", "Tom Field", "You can almost touch the stars");
+	  presentation("December", "18", "Dr. Brian McLeod", "How to build the world's biggest telescopes");
+	  //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2019</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+	  presentation("January", "18", "Rich Combs", "Binoculars, Backwards and Forwards", "talks/2019-01-18.pptx");
+          presentation("February", "15", "Bob Garfinkle", "Fly Me to the Moon");
+		  presentation("", "", "Curtis Macchioni", "Calstar: Central California's Star Party", "talks/2019-02-15.pdf");
+	  presentation("March", "15", "Richard Ozer", "How to make your own telescope mirror");
+	  presentation("April", "19", "Dr. James Newman", "Reflections on Human Space Fligh");
+	  presentation("May", "17", "Steve Gottlieb", "NGC/IC Project -- Cleaning up errors in a 130 year-old catalogue");
+		  presentation("", "", "Ken Sperber", "Supernova 2017eaw in NGC 6946", "talks/2019-05-17.pdf");
+          presentation("June", "21", null, "Summer Potluck BBQ");
+	  presentation("July", "19", "Dr. David Dearborn", "Stellar Evolution");
+          presentation("August", "16", "Dave Rodrigues", "Chabot Observatory's Role in the Rescue of Apollo 13");
+          presentation("September", "20", "Kenji Ozawa", "Spacecraft Thermal Control");
+          presentation("October", "18", "Bill Beiriger", "Meteorites: Where do they come from and what are they made of");
+          presentation("November", "15", "Thomas Kruijer", "Cosmochemical constraints on the earliest evolution of the Solar System");
+          presentation("December", "20", null, "Holiday potluck");
+	  //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2018</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+	  presentation("January", "19", "Steve Gottlieb", "Going Deep -- Challenging Observing Projects for the Intrepid Amateur", "talks/2018-01-19.pdf");
+          presentation(" ", " ", "Ken Sperber", "2017 Geminids", "talks/2018-01-19.ppsx");
+	  presentation("February", "16", "Dr. Moran Burks", "Exploring the Solar System with Gamma Rays");
+          presentation(" ", " ", "Ken Sperber", "Super Blue Blood Moon", "talks/2018-02-16.pdf");
+	  presentation("March", "16", "Dr. Lance Simms", "Optical Telescpes for Dummies");
+          presentation(" ", " ", "Ken Sperber", "Portable Refractors", "talks/2018-03-16.pdf");
+	  presentation("April", "20", "Dr. Orkan Umurhan", "Peering into distant lands: New Horizons and the geology of Pluto and Charon");
+          presentation("May", "18", "Kirsten Howley", "Preventing an Asteroid Extinction");
+	  presentation("June", "15", "Dr. Nathan Golovich", "Black Holes as Dark Matter: How New Discoveries Are Reinvigorating Old Theories");
+	  presentation("July", "20", "Dr. Franck Marchis", "Another Pale Blue Dot: The SETI Institute's Search for Exoplanets");
+          presentation("August", "17", null, "Summer Potluck BBQ");
+	  presentation("September", "21", "Ken Sperber", "The Basics of Astrophotography, Part I: Widefield DSLR Imaging", "talks/2018-09-21a.ppsx");
+	  presentation("", "", "Andy Coutant", "The Basics of Astrophotography, Part II: Imaging using the Hyperstar System", "talks/2018-09-21b.pptx");
+          presentation("October", "19", "Gert Gottschalk", "The Basics of Astrophotography, Part III: USB Camera Planetary, Solar and Lunar Imaging");
+          presentation("November", "16", "Rob Hawley", "Starhopping 101");
+	  presentation("December", "21", null, "Holiday potluck");
+	  //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2017</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+	  presentation("January", "20", "Rob Hawley", "Using your Eyes and your Camera to get the most out of Solar Eclipses");	
+	  presentation("February", "17", "Vivian White", "Sharing Our Love of Astronomy");
+	  presentation("March", "17", "Rich Combs", "What's Up in Sextans",                   "talks/2017-03-17a.pptx");
+          presentation('', '', "Ken Sperber", "Observing Guides: Casual and Programmatic",    "talks/2017-03-17b.pdf");
+          presentation('', '', "Gert Gottschalk", "Solar H-Alpha Imaging with USB Cameras",   "talks/2017-03-17c.pdf");
+          presentation("April", "21", "Don Machholz", "Charles Messier, and Planning a Messier Marathon");
+	  presentation("May", "19", "Lance Sims", "The James Webb Telescope");
+          presentation("June", "16", null, "Summer Potluck BBQ");
+          presentation("July", "21", "Ejner Fulsang", "On Becoming a Spacefaring Society",    "talks/2017-07-21.pdf");
+          presentation("August", "18", null, "No meeting due to solar eclipse");
+	  presentation("September", "15", "TVS members", "Solar Eclipse Recap");
+	  presentation("October", "20", "Chris Kitting", "Hayabusa Spacecraft Reentry over Australia");
+	  presentation("November", "17", "Jonathan Noland", "How to Design, Launch, and Operate Geostationary Satellites");
+	  presentation("December", "15", null, "Holiday potluck");
+	  //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2016</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+	  presentation("January", "15", "Dr. Paul Lynam", "The History and Science of Lick Observatory");
+	  presentation("February", "19", "Dr. Brian Michael Bucher", "Searching for the First Stars Through Nuclear Reactions");
+          presentation("March", "18", "Dr. Megan Bruck Syal", "Planetary Defense at LLNL: How to Protect Earth from Hazardous Asteroids");
+          presentation("April", "15", "Dr. Will Dawson", "Merging Galaxy Clusters, Dissections of the Cosmos");
+	  presentation("May", "20", "TVS members", "Various topics");
+          presentation("June", "17", "Dr. Phil Scherrer", "The Sun-Inside and Out", "talks/2016-06-17.pdf");
+	  presentation("July", "15", null, "Summer Potluck BBQ");
+          presentation("August", "19", "Dr. Kenneth Lum", "The Evolution of the Reflecting Telescope, Part 1");
+          presentation("September", "16", "Dr. Kenneth Lum", "The Evolution of the Reflecting Telescope, Part 2");
+          presentation("October", "21", "Kim Grandfield", "Photographing the Night Sky");
+          presentation("November", "18", "Dr. Lance Simms", "The History of Astronomical Imaging");
+	  presentation("December", "16", null, "Holiday potluck");
+	  //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2015</h3></td>
+       </tr>
+       <script type="text/javascript">
+	  <!--
+	  presentation("January", "16", "Dr. Seth Shostak", "The Search for ET");
+	  presentation("February", "20", "Claudia Alexander", "Rosetta: Wild Bounce at Comet Churyumov-Gerasimenko");
+	  presentation("March", "20", "Todd Rigg-Carriero, M.S.", "Citizen Science to the Rescue!", "talks/2015-03-20.pdf");
+	  presentation("April", "17", "Dr. Julia Voge", 'Unraveling the High-Energy Universe with NuSTAR and Peering at the "Dark Side"');
+	  presentation("May", "15", "Dr. Ruslan Belikov", "Beyond Kepler: Direct Imaging of Earth-like Exoplanets", "talks/2015-05-15.pdf");
+	  presentation("June", "19", "Dr. Kim De Vries", "Space Debris");
+	  presentation("July", "11", null, "Summer Potluck BBQ");
+	  presentation("August", "21", "Dr. Richard G. Kraus", "Vaporizing Planets and Raining Iron");
+	  presentation("September", "18", "Jeff Baldwin", "Mirror-Making Machine, SIT Testing, and Shop Strategies", "http://jeffbaldwin.org");
+	  presentation("October", "16", "Prof. Eric W. Harpell", "Not Quite Alone in a Sea of Star");
+          presentation("November", "20", "Dr. Kenneth Lum", "The Invention of Spectroscopy, the Era of Big Refractors, and the Ascendency of Reflecting Telescopes in the 19th Century");
+	  presentation("December", "18", null, "Holiday Potluck");
+	  //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2014</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "17", "Dr. Rob Hoffman", "Type Ia Supernovae, the Best Bang Since the Big One", "talks/2014-01-17.pdf");
+	  presentation("February", "21", "Curtis Macchioni", "A Live Video Astronomy Demonstration", "talks/2014-02-21.pdf");
+	  presentation("March", "21", "Dr. Kenneth Lum", "Touring Antique Telescopes and Other Astronomical Sites Around the World");
+	  presentation("April", "18", "Dr. Gregory Brennecka", "Evidence for Supernova Injection Into the Solar Nebula", "talks/2014-04-18.pdf");
+	  presentation("May", "16", "Wil van Breugel", "Masks of the Cosmos");
+	  presentation("June", "20", null, "Summer Potluck BBQ");
+	  presentation("July", "18", "Dr. Kenneth Lum", "Historical Innovations in Telescope Technology in England in the 17th and 18th Century - A Tour with the Antique Telescope Society");
+	  presentation("August", "15", "Dr. Don Dossa", "Large Synoptic Survey Telescope (LSST)");
+	  presentation("September", "19", "Ken Sperber and others", "My Experiences with Astronomical League Observing Programs (Ken)", "talks/2014-09-19.pdf");
+	  presentation("October", "17", "John Martin", "Galaxy Morphology and Composition");
+	  presentation("November", "21", "Bill and Susan O�Neil", "Astronomy Volunteers Needed for National Park Service");
+	  presentation("December", "19", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2013</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "18", "Tim DeBenedictis", "SkyCube: The First Satellite Launched by You!");
+	  presentation("February", "15", "Prof. Steven Stahler", "The Birth of Star Clusters");
+	  presentation("March", "18", "Dr. Kenneth Lum", "Bernhard Schmidt and his Camera");
+	  presentation("April", "19", "Dr. Hilary Jones", "How I do Remote Astrophotography from the Comfort of my Home", "talks/2013-04-19/index.html");
+	  presentation("May", "17", "Dr. Regina Soufli", "Watching the magnificent Sun with NASA's Solar Dynamics Observatory");
+	  presentation("June", "21", null, "Summer Potluck BBQ");
+	  presentation("July", "19", null, "Outing to Del Valle");
+	  presentation("August", "16", null, "Ice cream social");
+	  presentation("September", "20", "Faride Khalaf", "SLS (Space Launch System): Our Next Ride");
+	  presentation("October", "18", "Gordon Myers", "The Fascinating Universe of Variable Stars");
+	  presentation("November", "15", "Norm Sperling", "Developing an Educational Star Party");
+	  presentation("December", "20", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2012</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "20", "Bruce Macintosh", "Images of extrasolar planets");
+	  presentation("February", "17", "No speaker", null);
+	  presentation("March", "16", "Dr. Lance Simms", "CXBN: Mapping the Mysterious Cosmic X-Ray Background with a NanoSatellite");
+	  presentation("April", "20", "Dr. Jessie Christiansen", "Searching for Other Earths: Latest Results from the Kepler Mission");
+	  presentation("May", "18", "Dr. Robert Piccioni", "Einstein for Everyone");
+	  presentation("June", "15", "Dr. Curtis Macchioni", "Deep-Sky Observing and Imaging with a Video Camera");
+	  presentation("July", "20", "Dr. Faride Khalaf", "Saturn V: The First 700 Seconds.");
+	  presentation("August", "17", "Dr. Thomas L. Zobrist", "Building the World's Largest Telescopes: The Future of Ground-Based Astronomy.");
+	  presentation("September", "21", "Dr. Sebastiano Cantalupo", "How to Illuminate a Dark Galaxy With the Help of a Black Hole.");
+	  presentation("October", "19", "Bob Jardine", "The Astronomical League: Observing Projects and More.");
+	  presentation("November", "16", "Robert Brauer", "Astronomy at 40,000 Feet, SOFIA Early Science Results.");
+	  presentation("December", "21", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">&nbsp;</td>
+       </tr>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2011</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "21", "Informal talks by Hilary Jones and Gert Gottschalk", null);
+	  presentation("February", "18", "Marilyn Vogel", "Salt Deposits on Earth and Mars: A Case Study on Habitability");
+	  presentation("March", "18", "Ron Bissinger", "How to Upgrade Your Astronomy Camera: A Somewhat Different Approach");
+	  presentation("April", "15", "Phil Scherrer", "An Update on the SDO (Solar Dynamics Observatory) Mission");
+	  presentation("May", "20", "No speaker", null);
+	  presentation("June", "17", "Dr. Steve Bryson", "Kepler's Vision: Exoplanets and Songs of the Stars");
+	  presentation("July", "15", null, "Summer Potluck BBQ");
+	  presentation("August", "19", "Dr. Bryan Day", "The New Moon");
+	  presentation("September", "16", "Dr. Margaret Race", "Avoiding Conflicts on the Moon");
+	  presentation("October", "21", "Dr. Justin Vandenbroucke", "Astronomy with the Fermi Gamma-ray Space Telescope");
+	  presentation("November", "18", "Hugh Bartlett", "Asterisms and Other Binocular Showpieces");
+	  presentation("December", "16", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">&nbsp;</td>
+       </tr>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2010</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "15", "Robert Bauer", null);
+	  presentation("February", "19", "Mike Rushford", null);
+	  presentation("March", "19", "No Speaker", null);
+	  presentation("April", "16", "Imke de Pater", "Fascinating Objects in Our Solar System");
+	  presentation("May", "21", "Phil Scherrer", "New Views of the Sun");
+	  presentation("June", "18", "Dr. Adrian Brown", "Mars Science Laboratory Mission and the Search for Carbonates and Methane on Mars");
+	  presentation("July", "16", null, "Summer Potluck BBQ");
+	  presentation("August", "20", "Dr. Lance Simms", "SiPIN Hybrid CMOS Arrays in Astronomy");
+	  presentation("September", "17", "Bryan Mendez", null);
+	  presentation("October", "15", "Dr. Lisa A. Poyneer", null);
+	  presentation("November", "19", "Ken Crowell", null);
+	  presentation("December", "17", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">&nbsp;</td>
+       </tr>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2009</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "16", "Justin Vandenbroucke", "IceCube: A Billion-ton Telescope at the South Pole");
+	  presentation("February", "20", "Philip Kahn", "Black Holes");
+	  presentation("March", "20", "Adrianne Cool", "Spying on Star Clusters with Space Observatories");
+	  presentation("April", "17", "Norm Sperling", "Irreproducible Results from the Journal");
+	  presentation("May", "15", "Jeffrey M Silverman", "Supernovae: You Wouldn't Be Here Without Them");
+	  presentation("June", "19", null, "Summer Solstice BBQ Potluck");
+	  presentation("July", "17", "Brian Day", "The LCROSS Mission");
+	  presentation("August", "21", "Garrett Keating", "Allen Telescope Array");
+	  presentation("September", "18", "Dr. Steve Croft", "Radio Ears and X-Ray Eyes: Astronomical Superheroes");
+	  presentation("October", "16", "Dr. Jason Harris", "Stellar Archaeology in the Magellanic Clouds");
+	  presentation("November", "20", "Rich Combs", "Back to the Future: Modern Astronomy 1909, 2009, 2109");
+	  presentation("December", "18", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2008</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "18", "TVS Members", "Member's Night");
+	  presentation("February", "15", "TVS Members", "Total Lunar Eclipse Tips");
+	  presentation("March", "21", "Dr. Steve Croft", "Big Black Holes and the Evolving Universe");
+	  presentation("April", "18", "Hope Ishii", "The Stardust Mission");
+	  presentation("May", "16", "Richard Crisp", "Emission Line Imaging");
+	  presentation("June", "20", "Dr. Adrian Brown", "Mars Reconnaissance Orbiter");
+	  presentation("July", "18", null, "Summer BBQ");
+	  presentation("August", "15", "Joshua Peek &amp; Karin Sandstrom", "This Galactic Life: Neighborhood Watch");
+	  presentation("September", "19", "Phil Scherrer", "Helioseismology");
+	  presentation("October", "17", "Jeff Oishi", "From Stardust to Planets via Silicon: Computer Experiments and Planet Formation");
+	  presentation("November", "21", "Dr. Steven Stahler", "The Birth of Star Clusters");
+	  presentation("December", "19", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2007</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "19", "TVS Members", "Astronomy Software");
+	  presentation("February", "16", "Dr. Imke de Pater", "Dusty Rings in Our Solar System");
+	  presentation("March", "16", "Friedemann Freund", "The Nature of Organics in Interstellar Space");
+	  presentation("April", "20", "Brian Day", "NASA's Spaceward Bound");
+	  presentation("May", "18", "Margaret Race", "Detecting Extra-Terrestrial Life");
+	  presentation("June", "15", null, "Summer BBQ");
+	  presentation("July", "20", "Peter Beyersdorf", "LIGO and the Search for Gravitational Waves");
+	  presentation("August", "17", "David Williams", "The VERITAS Project (Gamma-Ray astronomy)");
+	  presentation("September", "21", "Marina Shmakova", "Gravitational Lensing");
+	  presentation("October", "19", "Dr. Graeme Smith", "Globular Clusters");
+	  presentation("November", "16", "Ken Sperber", "I've Discovered Three Asteroids-Not! But They're Still Cool. . .", "talks/2007-11-16.pdf");
+	  presentation("December", "21", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2006</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "20", "TVS Members", "Show and Tell");
+	  presentation("February", "17", "Tom Estill", "Chabot Space &amp; Science Center");
+	  presentation("March", "17", "Dave Dearborn", "Danger: Asteroid Crossing");
+	  presentation("April", "21", "Virtual Ed Krupp", "Under Nile Skies");
+	  presentation("May", "19", null, "Eclipse Night!");
+	  presentation("June", "16", null, "Summer BBQ");
+	  presentation("July", "21", "Rich Combs", "Anecdotes on the History of Amateur Telescope Making");
+	  presentation("August", "18", "Naishi Min", "Vemarsjusa");
+	  presentation("September", "15", "TVS Members", "Scope Maintenance Night");
+	  presentation("October", "20", "Andrew West", "Why Do Galaxies Look the Way They Do? A Multiwavelength Approach to Galaxy Evolution");
+	  presentation("November", "17", "TVS Members", "Mercury");
+	  presentation("December", "15", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+         <td colspan="3">
+           <p><a href="#Anchor">Return to Top</a></p><br>
+         </td>
+       </tr>
+       <!-- End of year -->
+
+       <!-- Start of year -->
+       <tr>
+         <td colspan="3"><h3 class="subtitle">TVS Meetings 2005</h3></td>
+       </tr>
+       <script type="text/javascript">
+          <!--
+	  presentation("January", "21", "Ron Bissinger", "A Distributed Global Observing Network and the Mystery of Extrasolar Planet TrES-1b");
+	  presentation("February", "18", "Dr. Sergei Nikolaev", "3D Geometry of the Large Magellanic Cloud");
+	  presentation("March", "18", "TVS Members", "How to Put on an Astronomy Program");
+	  presentation("April", "15", "Naishi Min", "Chinese Astronomy");
+	  presentation("May", "23", "Dave Dearborn", "Flash-Bang: How stars behave when we do not stereotype them as spheres");
+	  presentation("June", "17", "Jurgen Wolf", "The Sofia Project");
+	  presentation("July", "15", null, "Summer BBQ Potluck");
+	  presentation("August", "19", "Norm Sperling", "Astronomy's 'Little Unification'");
+	  presentation("September", "16", "TVS Members", "Auction, A Little Night Sky, and Scope Maintenance");
+	  presentation("October", "21", "Ron Bissinger", "Astronomy in the National Parks");
+	  presentation("November", "18", "TVS Officers, Board, Members", "TVS Town Hall Meeting");
+	  presentation("December", "16", null, "Holiday Potluck");
+          //-->
+       </script>
+       <tr>
+        <td colspan="3">
+          <p><a href="#Anchor">Return to Top</a></p><br>
+        </td>
+       </tr>
+       <!-- End of year -->
+
+     </tbody>
+   </table>
+   <br><br>
+<!--#include virtual="trailer.shtml" -->
+
+</body>

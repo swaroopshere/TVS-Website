@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>BLAT !!!!!!!!!!!!!!!</title>
+ </head>
+ <body>
+        <!-- #set var="announcement" value="true" -->
+        <!-- #if expr="$announcement = true" -->
+        <div>You should see this</div>
+        <!-- #if expr="$announcement = false" -->
+        <div>You should not see this</div>
+        <!-- #endif -->
+</body>
+</html>
+

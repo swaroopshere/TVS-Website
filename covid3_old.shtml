@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers COVID-19 rules">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy, COVID-10">
+  <title>Tri-Valley Stargazers COVID-19 rules</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "February 28, 2022";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_home { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+   <h1 class="title" style="width: 200px;">COVID-19 Rules</h1>
+
+   Due to the COVID-19 health crisis, the following restrictions are in effect for our observing sites at Del Valle and H2O:
+   <ul>
+     <li>We always observe the county's COVID regulations for events at our sites.</li>
+     <li>The observing sites are open for use by club members and immediate family only; no guests or group events are allowed</li>
+     <li>You use the observing sites at your own risk and agree to hold the club and the landowners free of all liability</li>
+     <li>Do not use either observing site if you are not feeling well or suspect you were recently exposed to the virus</li>
+     <li>Announce your intention to use either site on the club's groups.io group</li>
+     <li>While at either site maintain social distancing of at least 15 feet (about a car's length) or greater</li>
+     <li>Bring hand sanitizer and use it before and after touching any locks or facilities</li>
+     <li>H2O users should wear a mask while at the landowner's home depositing the daily usage fee</li>
+     <li>H2O users that wish to use the Quick Dome should first contact Ross Gaunt to reserve it for individual use for the day</li>
+   </ul>
+
+<!--#include virtual="trailer.shtml" -->
+
+ </body>
+</html>

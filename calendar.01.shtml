@@ -1,0 +1,464 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers calendar">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Calendar</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "November 13, 2014";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_calendar { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <a name="Anchor"></a>
+  <h1 class="title">Calendar</h1>
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td rowspan="3"><br></td>
+          <td rowspan="3"><br></td>
+          <td colspan="3"><br></td>
+          <td valign="top" width="511" align="left" height="249">
+          	<div align="left">
+		<a class="topLinks" href="#events">Events</a><br>
+		<a class="topLinks" href="#tvsmeetings">TVS Meetings</a><br><br><br>
+
+      <!-- // Begin Current Moon Phase HTML (c) CalculatorCat.com // -->
+              <table style="background-color: rgb(0, 0, 0);" width="220" bgcolor="#000000" border="0" cellpadding="0" cellspacing="3">
+                <tbody>
+                  <tr>
+                    <td style="border: 1px solid rgb(175, 178, 216); background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);"
+         										align="center">
+                    	<script type="text/javascript" src="http://www.calculatorcat.com/codesrc/moon/phasenow_b.js"></script>
+                    	<script type="text/javascript" src="http://www.calculatorcat.com/codesrc/moon/phasenow_2h.js"></script>
+                    	<span style="font-size: 10px; font-family: verdana,arial,sans-serif; color: white;">
+                    	 <a href="http://www.calculatorcat.com/moon_phases/moon_phases.phtml" target="moon_ph" style="color: rgb(135, 135, 135);">moon phases</a><br>&nbsp;
+			</span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+      <!-- // end moon phase HTML // --> <br>
+            	<br><br>
+           	</div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="6" valign="top" align="left" width="1302">
+            <a name="events"></a>
+
+	    <!-- Upcoming events start here -->
+
+	    <table style="font-size:13px; font-family:Arial; font-color:black;" border="0" cellpadding="1" cellspacing="4">
+           	<tbody>
+                <tr>
+                  <td colspan="3">
+                    <h2 class="subtitle">Events 2014</h2>
+                  </td>
+                </tr>
+                <tr>
+                  <!-- The following dummy rows establish the sizes for the rest of the event table entries -->
+                  <td style="width:50px;">&nbsp;</td>
+                  <td style="width:93px;">&nbsp;</td>
+                  <td style="width:555px;">&nbsp;</td>
+                </tr>
+
+		<!-- Start of month -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">November 2014</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  event("1-4", "Dawn", "Zodiacal light is visible 120 to 80 minutes before sunrise");
+		  event("1-7", "Dawn", "Mercury's best morning apparition, 5° above horizon");
+		  event("2", "2:00 am", "Daylight-saving time ends");
+		  event("2", "7:07 pm", "Algol at a minimum");
+		  event("6", "2:23 pm", "Full Moon");
+		  event("14", "7:16 am", "Last Quarter Moon");
+		  event("14", "Dawn", "Jupiter above the waning slightly gibbous Moon");
+		  event("17-18", "Late night", "Leonid medteor shower");
+		  event("22", "4:32 am", "New Moon");
+		  event("22", "8:50 pm", "Algol at a minimum");
+		  event("25", "Dusk", "Mars glows to the left of the waxing crescent Moon");
+		  event("29", "2:06 am", "First Quarter Moon");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3" style="width: 685px;">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of month -->
+
+		<!-- Start of month -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">December 2014</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  event("5", "evening", "Aldebaran very close to almost-full Moon");
+		  event("6", "4:27 am", "Full Moon");
+		  event("11,12", "Dawn", "Waning gibboous Moon passes below Jupiter");
+		  event("13-14", "All night", "Geminid meteor shower peaks this night");
+		  event("14", "4:51 am", "Last Quarter Moon");
+		  event("15", "7:22 pm", "Algol at a minimum");
+		  event("21", "3:03 pm", "Winter solstice, longest night of the year");
+		  event("21", "5:36 pm", "New Moon");
+		  event("22", "Dusk", "Extremely thin crescent Moon to right of Venus");
+		  event("23", "Dusk", "Venus well below the Moon");
+		  event("24", "Evening", "Mars to left of waxing crescent Moon");
+		  event("28", "10:31 am", "First Quarter Moon");
+		  event("28", "Late evening", "Uranus very close to the Moon");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3" style="width: 685px;">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of month -->
+
+              </tbody>
+      	    </table>
+
+	    <!-- Past meetings start here -->
+
+	    <a name="tvsmeetings"></a>
+            <table style="font-size:13px; font-family:Arial; font-color:black;" border="0" cellpadding="0" cellspacing="4">
+              <tbody>
+                <tr>
+                  <!-- The following dummy rows establish the sizes for the rest of the meeting entries -->
+                  <td style="width:78px;">&nbsp;</td>
+                  <td style="width:20px;">&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+
+                <tr>
+                 <td colspan="3" style="font-size:18px;color:#000066;">
+                    <h2 class="subtitle">Past Meetings</h2>
+                    <br>
+                 </td>
+                </tr>
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2014</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "17", "Dr. Rob Hoffman", "Type Ia Supernovae, the Best Bang Since the Big One", "talks/2014-01-17.pdf");
+		  presentation("February", "21", "Curtis Macchioni", "A Live Video Astronomy Demonstration", "talks/2014-02-21.pdf");
+		  presentation("March", "21", "Dr. Kenneth Lum", "Touring Antique Telescopes and Other Astronomical Sites Around the World");
+		  presentation("April", "18", "Dr. Gregory Brennecka", "Evidence for Supernova Injection Into the Solar Nebula", "talks/2014-04-18.pdf");
+		  presentation("May", "16", "Wil van Breugel", "Masks of the Cosmos");
+		  presentation("June", "20", null, "Summer Potluck BBQ");
+		  presentation("July", "18", "Dr. Kenneth Lum", "Historical Innovations in Telescope Technology in England in the 17th and 18th Century - A Tour with the Antique Telescope Society");
+		  presentation("August", "15", "Dr. Don Dossa", "Large Synoptic Survey Telescope (LSST)");
+		  presentation("September", "19", "Ken Sperber and others", "My Experiences with Astronomical League Observing Programs (Ken)", "talks/2014-09-19.pdf");
+		  presentation("October", "17", "John Martin", "Galaxy Morphology and Composition");
+		  presentation("November", "21", "Bill and Susan O’Neil", "Astronomy Volunteers Needed for National Park Service");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2013</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "18", "Tim DeBenedictis", "SkyCube: The First Satellite Launched by You!");
+		  presentation("February", "15", "Prof. Steven Stahler", "The Birth of Star Clusters");
+		  presentation("March", "18", "Dr. Kenneth Lum", "Bernhard Schmidt and his Camera");
+		  presentation("April", "19", "Dr. Hilary Jones", "How I do Remote Astrophotography from the Comfort of my Home", "talks/2013-04-19/index.html");
+		  presentation("May", "17", "Dr. Regina Soufli", "Watching the magnificent Sun with NASA's Solar Dynamics Observatory");
+		  presentation("June", "21", null, "Summer Potluck BBQ");
+		  presentation("July", "19", null, "Outing to Del Valle");
+		  presentation("August", "16", null, "Ice cream social");
+		  presentation("September", "20", "Faride Khalaf", "SLS (Space Launch System): Our Next Ride");
+		  presentation("October", "18", "Gordon Myers", "The Fascinating Universe of Variable Stars");
+		  presentation("November", "15", "Norm Sperling", "Developing an Educational Star Party");
+		  presentation("December", "20", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2012</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "20", "Bruce Macintosh", "Images of extrasolar planets");
+		  presentation("February", "17", "No speaker", null);
+		  presentation("March", "16", "Dr. Lance Simms", "CXBN: Mapping the Mysterious Cosmic X-Ray Background with a NanoSatellite");
+		  presentation("April", "20", "Dr. Jessie Christiansen", "Searching for Other Earths: Latest Results from the Kepler Mission");
+		  presentation("May", "18", "Dr. Robert Piccioni", "Einstein for Everyone");
+		  presentation("June", "15", "Dr. Curtis Macchioni", "Deep-Sky Observing and Imaging with a Video Camera");
+		  presentation("July", "20", "Dr. Faride Khalaf", "Saturn V: The First 700 Seconds.");
+		  presentation("August", "17", "Dr. Thomas L. Zobrist", "Building the World's Largest Telescopes: The Future of Ground-Based Astronomy.");
+		  presentation("September", "21", "Dr. Sebastiano Cantalupo", "How to Illuminate a Dark Galaxy With the Help of a Black Hole.");
+		  presentation("October", "19", "Bob Jardine", "The Astronomical League: Observing Projects and More.");
+		  presentation("November", "16", "Robert Brauer", "Astronomy at 40,000 Feet, SOFIA Early Science Results.");
+		  presentation("December", "21", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2011</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "21", "Informal talks by Hilary Jones and Gert Gottschalk", null);
+		  presentation("February", "18", "Marilyn Vogel", "Salt Deposits on Earth and Mars: A Case Study on Habitability");
+		  presentation("March", "18", "Ron Bissinger", "How to Upgrade Your Astronomy Camera: A Somewhat Different Approach");
+		  presentation("April", "15", "Phil Scherrer", "An Update on the SDO (Solar Dynamics Observatory) Mission");
+		  presentation("May", "20", "No speaker", null);
+		  presentation("June", "17", "Dr. Steve Bryson", "Kepler's Vision: Exoplanets and Songs of the Stars");
+		  presentation("July", "15", null, "Summer Potluck BBQ");
+		  presentation("August", "19", "Dr. Bryan Day", "The New Moon");
+		  presentation("September", "16", "Dr. Margaret Race", "Avoiding Conflicts on the Moon");
+		  presentation("October", "21", "Dr. Justin Vandenbroucke", "Astronomy with the Fermi Gamma-ray Space Telescope");
+		  presentation("November", "18", "Hugh Bartlett", "Asterisms and Other Binocular Showpieces");
+		  presentation("December", "16", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+ 		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2010</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "15", "Robert Bauer", null);
+		  presentation("February", "19", "Mike Rushford", null);
+		  presentation("March", "19", "No Speaker", null);
+		  presentation("April", "16", "Imke de Pater", "Fascinating Objects in Our Solar System");
+		  presentation("May", "21", "Phil Scherrer", "New Views of the Sun");
+		  presentation("June", "18", "Dr. Adrian Brown", "Mars Science Laboratory Mission and the Search for Carbonates and Methane on Mars");
+		  presentation("July", "16", null, "Summer Potluck BBQ");
+		  presentation("August", "20", "Dr. Lance Simms", "SiPIN Hybrid CMOS Arrays in Astronomy");
+		  presentation("September", "17", "Bryan Mendez", null);
+		  presentation("October", "15", "Dr. Lisa A. Poyneer", null);
+		  presentation("November", "19", "Ken Crowell", null);
+		  presentation("December", "17", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2009</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "16", "Justin Vandenbroucke", "IceCube: A Billion-ton Telescope at the South Pole");
+		  presentation("February", "20", "Philip Kahn", "Black Holes");
+		  presentation("March", "20", "Adrianne Cool", "Spying on Star Clusters with Space Observatories");
+		  presentation("April", "17", "Norm Sperling", "Irreproducible Results from the Journal");
+		  presentation("May", "15", "Jeffrey M Silverman", "Supernovae: You Wouldn't Be Here Without Them");
+		  presentation("June", "19", null, "Summer Solstice BBQ Potluck");
+		  presentation("July", "17", "Brian Day", "The LCROSS Mission");
+		  presentation("August", "21", "Garrett Keating", "Allen Telescope Array");
+		  presentation("September", "18", "Dr. Steve Croft", "Radio Ears and X-Ray Eyes: Astronomical Superheroes");
+		  presentation("October", "16", "Dr. Jason Harris", "Stellar Archaeology in the Magellanic Clouds");
+		  presentation("November", "20", "Rich Combs", "Back to the Future: Modern Astronomy 1909, 2009, 2109");
+		  presentation("December", "18", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+	       <!-- End of year -->
+
+	       <!-- Start of year -->
+               <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2008</h3></td>
+               </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "18", "TVS Members", "Member's Night");
+		  presentation("February", "15", "TVS Members", "Total Lunar Eclipse Tips");
+		  presentation("March", "21", "Dr. Steve Croft", "Big Black Holes and the Evolving Universe");
+		  presentation("April", "18", "Hope Ishii", "The Stardust Mission");
+		  presentation("May", "16", "Richard Crisp", "Emission Line Imaging");
+		  presentation("June", "20", "Dr. Adrian Brown", "Mars Reconnaissance Orbiter");
+		  presentation("July", "18", null, "Summer BBQ");
+		  presentation("August", "15", "Joshua Peek &amp; Karin Sandstrom", "This Galactic Life: Neighborhood Watch");
+		  presentation("September", "19", "Phil Scherrer", "Helioseismology");
+		  presentation("October", "17", "Jeff Oishi", "From Stardust to Planets via Silicon: Computer Experiments and Planet Formation");
+		  presentation("November", "21", "Dr. Steven Stahler", "The Birth of Star Clusters");
+		  presentation("December", "19", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+	       <!-- End of year -->
+
+
+	       <!-- Start of year -->
+               <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2007</h3></td>
+               </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "19", "TVS Members", "Astronomy Software");
+		  presentation("February", "16", "Dr. Imke de Pater", "Dusty Rings in Our Solar System");
+		  presentation("March", "16", "Friedemann Freund", "The Nature of Organics in Interstellar Space");
+		  presentation("April", "20", "Brian Day", "NASA's Spaceward Bound");
+		  presentation("May", "18", "Margaret Race", "Detecting Extra-Terrestrial Life");
+		  presentation("June", "15", null, "Summer BBQ");
+		  presentation("July", "20", "Peter Beyersdorf", "LIGO and the Search for Gravitational Waves");
+		  presentation("August", "17", "David Williams", "The VERITAS Project (Gamma-Ray astronomy)");
+		  presentation("September", "21", "Marina Shmakova", "Gravitational Lensing");
+		  presentation("October", "19", "Dr. Graeme Smith", "Globular Clusters");
+		  presentation("November", "16", "Ken Sperber", "I've Discovered Three Asteroids-Not! But They're Still Cool. . .", "talks/2007-11-16.pdf");
+		  presentation("December", "21", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2006</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "20", "TVS Members", "Show and Tell");
+		  presentation("February", "17", "Tom Estill", "Chabot Space &amp; Science Center");
+		  presentation("March", "17", "Dave Dearborn", "Danger: Asteroid Crossing");
+		  presentation("April", "21", "Virtual Ed Krupp", "Under Nile Skies");
+		  presentation("May", "19", null, "Eclipse Night!");
+		  presentation("June", "16", null, "Summer BBQ");
+		  presentation("July", "21", "Rich Combs", "Anecdotes on the History of Amateur Telescope Making");
+		  presentation("August", "18", "Naishi Min", "Vemarsjusa");
+		  presentation("September", "15", "TVS Members", "Scope Maintenance Night");
+		  presentation("October", "20", "Andrew West", "Why Do Galaxies Look the Way They Do? A Multiwavelength Approach to Galaxy Evolution");
+		  presentation("November", "17", "TVS Members", "Mercury");
+		  presentation("December", "15", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                  <td colspan="3">
+                    <p><a href="#Anchor">Return to Top</a></p>
+                  </td>
+                </tr>
+		<!-- End of year -->
+
+
+		<!-- Start of year -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">TVS Meetings 2005</h3></td>
+                </tr>
+		<script type="text/javascript">
+		 <!--
+		  presentation("January", "21", "Ron Bissinger", "A Distributed Global Observing Network and the Mystery of Extrasolar Planet TrES-1b");
+		  presentation("February", "18", "Dr. Sergei Nikolaev", "3D Geometry of the Large Magellanic Cloud");
+		  presentation("March", "18", "TVS Members", "How to Put on an Astronomy Program");
+		  presentation("April", "15", "Naishi Min", "Chinese Astronomy");
+		  presentation("May", "23", "Dave Dearborn", "Flash-Bang: How stars behave when we do not stereotype them as spheres");
+		  presentation("June", "17", "Jurgen Wolf", "The Sofia Project");
+		  presentation("July", "15", null, "Summer BBQ Potluck");
+		  presentation("August", "19", "Norm Sperling", "Astronomy's 'Little Unification'");
+		  presentation("September", "16", "TVS Members", "Auction, A Little Night Sky, and Scope Maintenance");
+		  presentation("October", "21", "Ron Bissinger", "Astronomy in the National Parks");
+		  presentation("November", "18", "TVS Officers, Board, Members", "TVS Town Hall Meeting");
+		  presentation("December", "16", null, "Holiday Potluck");
+		 //-->
+		</script>
+                <tr>
+                 <td colspan="3">
+                   <p><a href="#Anchor">Return to Top</a></p>
+                 </td>
+                </tr>
+		<!-- End of year -->
+
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        
+        <!-- The following lines control the layout -->
+        <tr>
+          <td colspan="6" width="1302"></td>
+        </tr>
+        <tr>
+          <td width="12" height="1"></td>
+          <td width="1" height="1"></td>
+          <td width="1" height="1"></td>
+          <td width="1" height="1"></td>
+          <td width="2" height="1"></td>
+          <td width="511" height="1"></td>
+          <td width="91" height="1"></td>
+          <td width="695" height="1"></td>
+        </tr>
+
+      </tbody>
+    </table>
+    <br><br>
+<!--#include virtual="trailer.shtml" -->
+
+</body>

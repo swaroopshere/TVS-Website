@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Hilary Jones, 2013">
+  <meta name="description" content="The Tri-Valley Stargazers test file">	<!-- XXX -->
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">	 	<!-- XXX -->
+  <title>Forms Test</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "November 26, 2020";
+   //-->
+  </script>
+  <!-- XXX The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_XXX { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+   <h1 class="title" style="width: 350px;">Test href in test4 subdirectory</h1>
+
+   Here's a test for you: <a href="newsletters/2021/tvsnews0821.pdf#zoom=100&amp;pagemode=none" target="_top">here</a>
+
+
+
+<!--#include virtual="trailer.shtml" -->
+
+ </body>
+</html>

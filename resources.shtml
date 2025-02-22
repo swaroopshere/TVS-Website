@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers Resources">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Resources</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "January 21, 2018";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_resources { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+    <a name="Anchor"></a>
+    <h1 class="title">Resources</h1>
+
+    <div class="content" style="width:930px;">
+        Here are some resources that you might want to look at:<br>
+	<ul>
+          <li><a href="loanerscope.shtml" title="Learn about our loaner scope program">Loaner Scopes</a></li>
+          <li><a href="delvalle.shtml" title="Learn about the Del Valle observing site">Del Valle</a></li>
+          <li><a href="h2o.shtml" title="Learn about the Hidden Hill Observatory dark sky site">H2O</a></li>
+          <li><a href="contributions.shtml" title="Find special contributions to this site by our members">Member Contributions</a></li>
+          <li><a href="telescopes.shtml" title="Learn about different kinds of telescopes">Telescopes</a></li>
+          <li><a href="library.shtml" title="Learn about our lending library">Library</a></li>
+          <li><a href="books.shtml" title="See some suggested books for reading">Books</a></li>
+          <li><a href="links.shtml" title="See links to other astronomy sites">Links</a></li>
+	</ul>
+    </div>		<!-- end div class=content -->
+
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>

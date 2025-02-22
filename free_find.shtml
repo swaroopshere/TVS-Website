@@ -1,0 +1,22 @@
+  <!-- START of freefind onpage results html -->
+  <!-- position these div's right after your body tag -->
+
+  <!--  FreeFind on-page results divs  -->
+  <div id="ffresult_win"   style=" z-index:1; padding: 20px 0 16px 0; margin:0px; width:538px; height:728px; border:none; display:none; position:absolute; top:0px; left:0px;">
+   <div  id="ffresult_bar" onmousedown="ffresults.drag(event,false)"  style="cursor: move; z-index:5; position:absolute; top:0px; left:0px; background-color:maroon; padding:0; text-align: right; width:100%; height:20px; display:block;  border:solid; border-width: 1px; border-bottom: 0px; border-color:maroon;">
+    <a  id="ffrclose" style="z-index:6; font-family: arial, verdana, sans-serif; font-size:8pt; color:white; " href="javascript:ffresults.hide()">Close window [X]</a>&nbsp;&nbsp;&nbsp;
+   </div>
+   <div  id="ffresult_2" style="z-index:7; position: relative; height: 100%; background-color:white;  display:block;">
+    <div  id="ffresult_cvr" style="z-index:0; position:absolute; top:0px; left:0px; display:block; width:100%; height:100%;">
+    </div>
+    <iframe  id="ffresult_ifr" name="ffresult_frame"  style="z-index:1; position:absolute; top:0px; left:0px;
+	border:solid; border-width: 0px 1px 0px 1px; border-color:gray;" src="" width="100%" height="100%" scrolling="auto" frameborder="0">
+    </iframe>
+   </div>
+   <div  id="ffresult_btm" style=" position:absolute; left:0px; border:solid; border-color:gray; border-width: 1px; border-top: 0px; display: block; z-index:18; background-color:#d0d0d0; width:100%; height:16px; " >
+    <div  id="ffresult_sbx" onmousedown="ffresults.drag(event,true);" style="cursor: se-resize; float:right; border:none; border-color:gray; border-width: 0px; width:16px; height:16px; "><img  style="" id="ffresult_szimg" height=16 width=16 border=0 src="" alt=""></div>
+   </div>
+  </div>
+
+  <script src="free_find.js" type="text/javascript"></script>
+  <!-- END of freefind onpage results html -->

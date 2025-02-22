@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <!-- This web page is provided to help FreeFind index all of the newsletters -->
+ <head>
+  <title>TrivalleyStargazers Events</title>
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "Aug 17, 2024";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_newsletter { text-decoration: underline;}</style>
+ </head>
+ <body>
+   <!--#include virtual="free_find.shtml" -->
+   <!--#include virtual="leader.shtml" -->
+   <div id="tvsCalendar" class="tvsCalendar">
+      <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&title=Trivalley%20Stargazers%20Club%20Events&src=bWNtMDU5YzNyNzh1bW1pMjhsbWQxdWduM28zOGIydDJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23C0CA33" style="border: width 1px; display: block" width="800" height="600" frameborder="1" scrolling="no"></iframe>
+   </div>
+ </body>
+</html>

@@ -1,0 +1,35 @@
+   <!-- start of trailer -->
+  </div>   <!-- end of content2 -->
+
+  <div class="footer">
+   <hr>
+   <table style="width:980px;">
+    <tr>
+     <td class="footer">
+      <p style="line-height:1.5;">
+       <script type="text/javascript">
+        <!--
+        contact("secretary", "trivalleystargazers.org", "Tri-Valley Stargazers");
+        //-->
+       </script>
+       P.O. Box 2476, Livermore, CA 94551
+      </p>
+     </td>
+     <td class="footer">
+      <a title="Click here to see the Clear Sky Chart for H2O" href="https://cleardarksky.com/c/HiddenOBCAkey.html" target="_blank">
+       <img src="https://cleardarksky.com/c/HiddenOBCAcs0.gif?1" alt="Clear Sky Chart">
+      </a>
+     </td>
+     <td class="footer">
+      <p style="line-height:1.5;">
+       <script type="text/javascript">
+        <!--
+        showLastUpdate();
+        //-->
+       </script>
+      </p>
+     </td>
+    </tr>
+   </table>
+  </div>  <!-- end of footer -->
+ <!-- end of trailer -->

@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2020">
+  <meta name="description" content="The Tri-Valley Stargazers Logging">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy, logging">
+  <title>Tri-Valley Stargazers Logging</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "June 9, 2020";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_activities { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+   <h1 class="title" style="width:250px;">Log File Descriptions</h1>
+
+   Our programs require that you document your observations. It’s also a chance to make notes about what you see as
+   compared to the images on Internet. We provide a form for you to use to help you in your use of nomenclature and to
+   create a consistent approach that will encourage you to attempt awards from the Astronomical League. We encourage use
+   of their recommendations in this program and thank them for their forethought. <br><br>
+
+   There are a number of things to consider when filling out a description of your session in the log file.  
+   The description needs to show what makes the object unique and different from other objects of the same type.
+   Providing this information will help you actually think about what it is that you are observing and not just
+   recording its name.  The description should also describe details about what you saw.  You may want to think about
+   things like this:
+   <ul>
+     <li>How big is the object?</li>
+     <li>What is the object's shape (round, oval, etc.)?</li>
+     <li>What is its color?</li>
+     <li>Is it uniformly lit or condensed?</li>
+     <li>Can you see a galaxy's arms?</li>
+     <li>Can you resolve individual stars?  How dim?</li>
+     <li>Is this part of a larger group (galaxy cluster, star cloud, etc.)?</li>
+     <li>Do filters help?</li>
+   </ul>
+
+
+<!--#include virtual="trailer.shtml" -->
+
+ </body>
+</html>

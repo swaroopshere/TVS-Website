@@ -1,0 +1,204 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers star parties">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Star Parties</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "May 6, 2023";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_activities { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+ <div style="border-style: solid; background-color:#003354; color:white; padding: 12px;">
+   Please read the latest about our COVID-19 rules:
+   <a href="covid3.shtml" title="Click me to read the rules">
+     <button style="margin-left: 10px; border-radius: 6px; background-color: white; color: black;">Rules</button>
+   </a>
+ </div>
+
+  <a name="Anchor"></a>
+   <h1 class="title">Star Parties</h1>
+   <table width="625" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="15"></td>
+     <td width="572" valign="top" align="left">
+      <div align="left">
+       <a class="topLinks" href="#school">School Outreach Star Parties</a><br><br>
+       <a class="topLinks" href="#public">Public Outreach Star Parties</a><br>
+       <span style="font-family: Helvetica, Geneva, SunSans-Regular, sans-serif; font-size: small;">
+        (Del Valle Park, Yosemite)<br><br>
+       </span>
+       <a class="topLinks" href="#club">Club Star Parties</a><br>
+       <span style="font-family: Helvetica, Geneva, SunSans-Regular, sans-serif; font-size: small;">
+        (Tesla Vintners, H2O Open House)<br><br>
+       </span>
+       <a class="topLinks" href="#other">Nearby Non-TVS Star Parties</a><br>
+       <span style="font-family: Helvetica, Geneva, SunSans-Regular, sans-serif; font-size: small;">
+        (Golden State Star Party, CalStar, Barcroft, others)<br><br><br>
+       </span>
+
+  <b>
+    Because of the coronavirus problem, most club parties are subject to the county's rules for 
+    shelter in place and curfew restrictions.  Consult our
+    <a href="https://groups.io/g/trivalleystargazers/calendar" title="See our calendar" target="_blank">calendar</a>
+    to see up-to-date information
+    on which parties are still scheduled and which have been cancelled.<br><br>
+  </b>
+
+
+       <a name="school"></a>
+       <h2 class="subtitle">School Outreach Star Parties</h2>
+
+       During the school year, TVS will conduct outreach star parties for teachers and the students at their school. We 
+       also do outreach star parties for other groups, such as boy's and girl's organizations and charitable
+       groups. If you are interested in the club coming to your school or group, send an e-mail to the star party
+       <script type="text/javascript">
+        <!--
+         contact("coordinator", "trivalleystargazers.org", "coordinator");
+        //-->
+       </script>.
+
+       <br><br>
+       Check our home page for any upcoming star parties.<br><br>
+
+       <a class="anchor" href="#Anchor">Return to Top<br><br><br></a>
+
+
+       <a name="public"></a>
+       <h2 class="subtitle">Public Outreach Star Parties</h2>
+
+       TVS conducts public outreach star parties every year at such places as <b>Del Valle Regional Park</b> near
+       Livermore. We also conduct a yearly outreach star party at <b>Yosemite</b> for a couple of nights. <br><br>
+
+       <b>Del Valle Regional Park</b> is south of Livermore.  Star parties are held at the 
+       <a href="https://www.google.com/maps/place/Del+Valle+Arroyo+Road+Staging+Area+(EBRPD)/@37.619661,-121.752925,17z/data=!4m5!3m4!1s0x808fdc4545c11aa9:0x28a34b4f6c5c078b!8m2!3d37.6196608!4d-121.7529251">
+       Arroyo Road Staging Area</a>, mear 5055
+       Arroyo Road. This location is NOT near the Del Valle main entrance, but is on Arroyo Road (an extension of L
+       Street), past the Wente Restaurant. From Downtown Livermore, take L Street south, and continue as it becomes
+       Arroyo Road. The Arroyo Road Staging Area is on the left, about 0.8 miles past the Wente Restaurant and the
+       turnoff to the Veterans Hospital.<br><br>
+
+       The <b>Yosemite</b> Star Party is held during the summer months. Tri-Valley Stargazers hosts star parties on top
+       of Glacier Point in exchange for free camping at the Bridalveil Creek campgrounds.  <br><br>
+
+       Check our home page for public outreach star party details (as they become available).<br><br>
+
+       <a class="anchor" href="#Anchor">Return to Top<br><br><br></a>
+
+
+       <a name="club"></a>
+       <h2 class="subtitle">Club Star Parties</h2>
+
+       
+       Our <b>Tesla Vintners</b> star parties are open to members and their guests only.  We arrange special after-hours access
+       to the site, usually four times per year.  Star party dates are published on our
+       <a href="index.shtml" title="see our home page">home page</a> as they are scheduled.
+       Although the winery is closed during the star parties, it is still a great location for observing, since it has
+       fairly dark skies for being so close to Livermore.  Check 
+       <a href="http://teslavintners.com/index.html" title="Visit Tesla Vintners' web site" target="_blank">
+         their web site</a> for information on wine tasting during the day. <br><br>
+
+       
+       In addition, we generally have two open houses at our dark sky site,
+       <a href="h2o.shtml" title="Hidden Hills">Hidden Hill Observatory (H2O)</a>. The public is invited to these events as outreach and introduction to TVS resources.<br><br>
+
+       For our <b>H2O Open Houses</b>, various members' telescopes will be available for public viewing.  Our main
+       observatory is no longer available because it was destroyed by recent wildfires.
+       We meet at the corner of Mines and Tesla Roads in Livermore, and caravan to the site (a one-hour
+       drive). Do not attempt to drive directly to the site unless you are an experienced key holding TVS member. If you
+       are not a key holding member, and you drive directly to the site, you will not be admitted. To find out about
+       becoming a keyholding member, visit our 
+       <a href="h2o.shtml" title="Hidden Hills">H2O web page</a>. <br><br>
+
+       To get to the assembly place, from I-580 take the Vasco Road exit and go south on Vasco Road about four miles to
+       the end of the road. Turn right on Tesla Road. Mines Road will be the first left, about 0.4 miles. There is a $3
+       per car fee at H2O, which is part of our rental agreement for the hilltop. Exact payment please - there is no way to make change. <br><br>
+
+
+       <a class="anchor" href="#Anchor">Return to Top<br><br><br></a>
+
+
+       <a name="other"></a>
+       <h2 class="subtitle">Nearby Non-TVS Star Parties</h2>
+
+       There are several non-TVS star party gatherings in Northern and Central California:<br><br>
+
+       <a class="link" title="GSSP" href="http://goldenstatestarparty.org/" target="_blank">Golden State Star Party</a><br>
+       The Golden State Star Party is held near Adin, CA. At an elevation of 4,400', atop a large bluff, the skies are
+       very dark. Tent camping and RVs welcome (no hook ups though). There will be some amenities provided.  Curtis
+       Macchioni has provided us with a nice 
+       <a href="pdfs/GSSP.pdf" title="See Curtis's slides" target="_blank">summary</a> of this event.<br><br>
+
+       <a class="link" title="CalStar" href="http://calstar.observers.org/" target="_blank">CalStar</a><br>
+       CalStar is a regional dark-sky star party held twice a year in April and September in Monterey County,
+       California.  The event format and atmosphere are quite casual, and there are no scheduled activities, vendors, or
+       fees other than the camping fee collected at the park entrance.  CalStar is sponsored by the 
+       <a href="https://www.sjaa.net/" title="SJAA" target="_blank">San Jose Astronomical Association</a>
+       and Left Coast Observers. <br><br>
+
+       <a class="link" title="Barcroft" href="https://www.wmrc.edu/" target="_blank">Barcroft</a><br>
+       The Barcroft High Altitude Star Party is sponsored by the 
+       <a title="East Bay Astro" href="http://eastbayastro.org/" target="_blank"> East Bay Astronomical Society</a>. 
+       It is held at the University of California's 
+       <a title="Barcroft" href="https://www.wmrc.edu/" target="_blank">Barcroft</a> High Altitude Research Station,
+       located in the White Mountain Range on the east side of the Owens Valley in California. The remoteness of the
+       location, plus an altitude of approximately 12,450 feet above sea level, affords visiting amateur astronomers
+       truly world-class viewing conditions that are relatively affordable and easy to access.<br><br>
+
+       To sign up for this trip, contact
+       <script type="text/javascript">
+        <!--
+         contact("donsaito", "yahoo.com", "Don Saito");
+        //-->
+       </script>
+       .  For more information, visit the Eastbay Astronomical Society's 
+       <a href="http://www.eastbayastro.org/events" title="Visit EAS" target="_blank">events web page</a>.<br><br>
+
+       <a class="link" title="Other"
+       href="https://www.skyandtelescope.com/astronomy-resources/annual-stargazing-events/" target="_blank">
+         Other Star Parties</a><br>
+
+       Other west coast star parties include the 
+       <a title="Death Valley" href="http://lvastronomy.com/index.php/events/death-valley-star-party-report"
+          target="_blank">Death Valley Winter Star Party</a>,<br> the
+       <a title="Oregon" href="https://oregonstarparty.org/" target="_blank">Oregon Star Party</a> in central Oregon,
+       and the  
+       <a title="Table Mountain" href="http://www.tmspa.com/" target="_blank">Table Mountain Star Party</a>
+       in central Washington.<br><br>
+
+       <a title="S&amp;T" href="https://www.skyandtelescope.com/" target="_blank">Sky and Telescope Magazine</a>
+       published a list of 
+       <a title="Top parties" href="https://www.skyandtelescope.com/astronomy-resources/annual-stargazing-events/"
+         target="_blank">top annual star parties in North America</a> in 2017.<br><br>
+
+       <a class="anchor" href="#Anchor">Return to Top<br><br><br><br></a>
+
+      </div>
+     </td>
+    </tr>
+    <tr>
+     <td width="15"></td>
+     <td width="572"></td>
+     <td width="37"></td>
+     <td width="1"></td>
+    </tr>
+   </table>
+<!--#include virtual="trailer.shtml" -->
+
+</body>

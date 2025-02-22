@@ -1,0 +1,361 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Ron Kane">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2023">
+  <meta name="description" content="The Tri-Valley Stargazers home page">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers, Livermore CA</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "October 23, 2023";
+   //-->
+  </script>
+
+  <script type="text/javascript">
+   <!--
+        // Use the following script to select which "optional" elements will be displayed.  
+        // Comment out the lines that you don't need, but don't delete them please!
+	function setupOptionalCode() {
+
+         // showOptional("opt_announce");  	// Optional announcement at the head of the page
+         showOptional("opt_talk");
+         //showOptional("opt_bbq");
+	  // showOptional("opt_potluck");
+	 // showOptional("opt_other");		// Regular meetings that don't fit into previous categories
+	 showOptional("opt_h2o");
+	 showOptional("opt_tesla");		// Club star party at Tesla Vintners
+        }
+
+   //-->
+  </script>
+
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_home { text-decoration: underline;}</style>
+
+ </head>
+
+ <body onload="setupOptionalCode()">
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+
+ <div class="intro">
+  The Tri-Valley Stargazers Astronomy Club, Livermore CA, welcomes you. There is a lot
+  of information here on the many activities of our club.
+  Learn why you should join the club to get the most out of your
+  amateur astronomy hobby in the east San Francisco Bay Area.  
+  <br><br>
+
+The Tri-Valley Stargazers Privacy Policy is available <a href="https://trivalleystargazers.org/TVS Privacy Policy (September 2022).pdf "_blank">here</a>.
+
+ </div>
+
+ <div style="border-style: solid; background-color:#003354; color:white; padding: 12px;">
+   Please read the latest about our Health rules:
+   <a href="covid3.shtml" title="Click me to read the rules">
+     <button style="margin-left: 10px; border-radius: 6px; background-color: white; color: black;">Rules</button>
+   </a>
+ </div>
+ <br>
+
+ <img src="images/rulehoriz.gif" alt="rule" width="294" height="10"><br>
+
+
+ <div class="optional" id="opt_announce">
+  <div class="announcement">
+   <img src="images/announcement1.png" alt="nova" style="position:absolute; left:-44px; top:-32px; z-index:-1;">
+   <img src="images/announcement2.png" alt="new" style="position:absolute; left:-6px; top:-6px;">
+   <br>
+   <div class="insetTitle" style="color:#A8311B;">Board elections are coming up</div>
+   <br>
+   We will soon be electing new members for the board.  Please nominate candidates to replace old members
+   who will be retiring this year.<br><br>
+  </div>
+ </div>
+
+ <table width="500" border="0" cellpadding="2" cellspacing="4">
+  <tbody>
+   <tr valign="top" align="left">
+    <td valign="top" width="250" align="left">
+
+     <h3 class="subtitle">Next Public Meeting</h3>	
+     <div class="optional" id="opt_talk">
+     <br> Friday November 17, 2023
+     <br>
+     <br> <b>TBD</b> <br><br>
+         
+     Presenter: TBD
+        <br><br>
+      
+      Meeting starts at 7:30 p.m.<br>
+      <br>This will be a hybrid meeting.  Location details below.
+      <br><br>
+      Unitarian Universalist Church<br>
+      1893 N. Vasco Rd., Livermore<br><br>
+
+     </div>
+
+     <div class="optional" id="opt_bbq">
+         <h3 class="subtitle">Summer Barbecue</h3>
+      <img src="images/bbq.jpg" alt="saturn grill" width="170" height="170"><br>
+      Friday, June 16, 2023<br>
+      Set up at 5:30 p.m.<br>
+      Dinner starts at 6:00 p.m.<br><br>
+      Unitarian Universalist Church<br>
+      1893 N. Vasco Rd., Livermore<br><br>
+     </div>
+
+     <div class="optional" id="opt_potluck">
+      Winter Solstice Potluck Dinner
+      <img src="images/xmas.jpg" alt="saturn garland" width="170" height="49"><br>
+      Friday, December 16, 2022<br>
+      Set up at 6:30 p.m.<br>
+      Dinner starts at 7:00 p.m.<br><br>
+      Unitarian Universalist Church<br>
+      1893 N. Vasco Rd., Livermore<br><br>
+     </div>
+
+     <div class="optional" id="opt_other">
+      Outing to Del Valle<br>
+      Friday, July 19th at 7:30 p.m.<br>
+      Details below.
+     </div>
+
+    </td>
+
+    <td valign="top" width="295" align="left">
+     <h3 class="subtitle">Next Board Meeting</h3>
+     <br>
+     Monday, November 20, 2023, 7:30 p.m.     <br><br>
+Board meetings are usually held using video conferencing.  Members are always welcome at board meetings.
+
+    </td>
+
+   </tr>
+  </tbody>
+ </table>
+
+ <img src="images/rulehoriz.gif" alt="rule" width="294" height="10">
+
+ <div align="left">
+  <h2 class="subtitle">The Latest News &amp; Upcoming Events</h2>
+<br>
+
+<!--
+<h3 class="subtitle">Barcroft High Altitude Star Party</h3>
+<br>
+Reservations for the Eastbay Astronomical Society�s Barcroft High-Altitude Star Party are now open to members of the EAS, the Tri-Valley Stargazer�s, and the Mount Diablo Astronomical Society clubs. This year�s event will be held from Sunday August 13th through noon on Saturday August 19th (with departure by noon on Saturday). That�s six nights.
+<br><br>
+Before sending payments for reservations ($90 per night, per person), even if you�ve been there before, please contact Don Saito FIRST (barcroft@eastbayastro.org) to ensure the dates you wish to attend are available. You will also be asked to read the Barcroft Writeup, as it provides the information you�ll need to have a safe, comfortable stay, and what is expected of guests to this University of California research facility.
+<br><br>
+
+Please visit:  <a href="https://eastbayastro.org/events/" target="_blank">East Bay Astronomical Society - Barcroft High Altitude Star Party</a>
+<br>
+-->
+
+
+
+  <div class="optional" id="opt_talk_details">
+   <h3 class="subtitle">October 2023 Member Meeting Presentation</h3>
+<br><br>
+ 
+   This meeting will be live at the Unitarian church and will also be available using the video conference utility 
+   <a href="https://zoom.us/" title="Learn about Zoom" target="_blank">Zoom</a>.
+   The meeting link will be emailed to members.  For non-members
+   if you would like to join the meeting, please send an email to 
+   <script type="text/javascript">
+      contact("president", "trivalleystargazers.org", "the club president");
+        </script>
+   asking for the meeting link and telling us a bit about your areas of interest
+   in astronomy.<br><br>
+
+
+
+<b> To the Edge and Back - Exploring a Virtual Universe </b>
+<br>
+
+M. Josh Roberts
+<br><br>
+Abstract: Data based virtual models can allow us to explore the Universe beyond the reach of all but our most powerful telescopes, join M. Josh Roberts on a quick tour of the Depth and Breadth of the Known Universe, followed by audience-led exploration.
+<br><br>
+Bio: M. Josh Roberts found his connection to astronomy through some amazing mentors and a local amateur astronomy group. He went on to take courses from high school through grad school in astronomy, completing his bachelor's at San Francisco State University and his master's from Swinburne University.
+This passion has taken him from his hometown to the Big City, from California to New York, from Alaska to Chile and from coastal California to 47,000 ft into the air!
+Josh takes pride in calling himself an astronomy communicator and a facilitator of that human connection to what exists beyond Earth's atmosphere and can find no greater joy than sharing what he loves about astronomy (and its affiliated sciences) with those who have an interest in hearing it.
+<br><br>
+   
+  </div>
+
+  <h3 class="subtitle">Upcoming star parties</h3>
+  
+  The following star parties are coming soon:<br>
+  <ul>
+    <!-- For future reference:
+    <li>Tuesday mm/dd/yy, Outreach party at the Muslim Community Center, 5724 W Las Positas Blvd., Pleasanton; 7:45</li>
+    <li>Saturday mm/dd/yy, TVS club party at Tesla Vintners, 5143 Tesla Road, Livermore; 8:00</li>
+    <li>Monday mm/dd/yy, Outreach party at the Taylor Family Foundation Camp, 5555 Arroyo Road, Livermore; 8:00</li>
+    <li>Saturday mm/dd/yy, Outreach party at Del Valle Arroyo staging area; 8:15</li>
+    <li>Sunday mm/dd/yy, Outreach party (Perseids) at Del Valle ridge near park entrance; 8:15</li>
+    -->
+
+  
+  <li>Saturday, 9/23/24, Outreach school star party at Foothill High School, 4375 Foothill Road, Pleasanton, exact location TBD, set up 6:30 PM, start observing 7:30 PM.</li>
+  <li>Saturday, 10/07/23, TVS club party at Tesla Vintners, 5143 Tesla Road, Livermore, 8:00</li>
+  <li>Saturday, 10/14/23, Partial Solar Eclipse at Las Positas College, set up 7:30 AM, eclipse starts 8:05 AM, maximum eclipse at 9:20 AM</li>
+  <li>Wednesday, 10/18/23, Public Star Party at Livermore Library, setup 6:00 PM, introductory talk at 6:45, observing starts 7:00 PM</li>
+  <li>Thursday, 10/19/23, Outreach school star party at John Green Elementary, 3300 Antone Way, Dublin, set up tentatively 6:15 PM, start observing 7:00 PM</li>
+  <li>Saturday, 10/21/23, Public Star Party, International Observe the Moon Night  at Del Valle Arroyo staging area, setup starts at 5:30 PM, observing starts at 6:30 PM</li>
+  <li>Thursday, 11/16/23, Public star party at Pleasanton Library, 400 Old Bernal Avenue, Pleasanton, time TBD</li>
+
+  </ul>
+  For a complete and up-to-date calendar of upcoming events, visit our 
+  <a href="https://groups.io/g/trivalleystargazers/calendar" title="See our calendar" target="_blank">groups.io</a>
+  calendar.<br><br>
+
+  Please contact
+  <script type="text/javascript">
+    <!--
+      contact("coordinator", "trivalleystargazers.org", "Eric Dueltgen");
+    -->
+  </script>
+  for further information.<br><br>
+
+
+  <div class="optional" id="opt_bbq_details">
+   <h3 class="subtitle">June's meeting</h3>
+   <!-- Next year be sure to invite family members, esp. Sue!  -->
+   Our June meeting will be our annual Summer BBQ. Plan on working up an appetite by
+   helping to set-up and get the charcoal going at about 5:30pm. We will start eating
+   around 6:00pm.  <br><br>
+   The club will provide hamburgers, hotdogs and vegetarian black bean burgers,
+   along with a variety of toppings.  If you wish, provide side dishes for your family, but not
+   to be shared with members because of COVID.<br><br>
+
+   <!-- For future meal, K-O should be Dessert.  Plan to rotate down each meal!  Coordinate BBQ and Potluck! -->
+   <!--
+   <ul>
+    <li>A-D Macaroni, Potato, Green or Fruit Salad</li>
+    <li>E-J Vegetable or Beans</li>
+    <li>K-O Appetizer</li>
+    <li>P-Z Dessert</li>
+   </ul>
+   -->
+   <br>
+  </div>
+
+  <div class="optional" id="opt_potluck_details">
+   <h3 class="subtitle">December's meeting</h3> 
+   This month is our Holiday dinner.  We'll be opening the doors at 6:30 to set up the tables
+   and chairs, and then the feast will begin at 7:00 PM.  TVS will provide the drinks and
+   paper/plasticware.  In addition we will provide the main course for this month's
+   holiday celebration, possibly turkey and/or tri-tip.  Members are asked to bring a dish to share, 
+   and of course bring family and friends to share in the festivities. Based on the first letter of your
+   last name members are asked to bring a dish to share: 
+   <ul>
+    <!-- For future meal, K-O should be Dessert.  Plan to rotate down each meal!  Coordinate BBQ and Potluck! -->
+    <li>A-D Macaroni, Potato, Green or Fruit Salad</li>
+    <li>E-J Vegetable or Beans</li>
+    <li>K-O Appetizer</li>
+    <li>P-Z Dessert</li>
+   </ul>
+   <br>
+  </div>
+
+  <div class="optional" id="opt_h2o">
+  <h3 class="subtitle">H2O Open House</h3>
+
+   Our next open house is scheduled for Saturday, August 5th at the club's dark sky site, 
+   <a href="h2o.shtml" title="Learn more about the TVS's Hidden Hill Observatory">Hidden Hill Observatory</a>, 
+   aka H2O.  <br><br>
+
+   Anyone can come to our open houses, not just club members; but you cannot go
+   there without an escort.  We will meet at the corner of Mines and Tesla Roads
+   at 6:00 PM, then caravan to the site on a drive that takes about 50 minutes.
+   The admission is $3/car; please bring the exact amount.  There is no gas on
+   the way, so be sure to gas up before leaving.  The site is essentially in the
+   wilderness, so there is no electricity and water, and there are only a couple
+   of pit toilets.  Cell-phone reception is iffy at best.  While there is a
+   picnic table there, you really should bring your own chair.  If you need to
+   see what you are doing, bring a red LED flashlight, not a white-light
+   flashlight.  And use masking tape over your car door and interior lights, or
+   pull the fuse.  If you don't have a scope, you can always find someone who is
+   willing to let you look through theirs.  And don't forget to bring your
+   binoculars.  Expect to stay until about midnight and get back to Livermore at
+   around 1:00 AM.<br><br>
+
+  </div>
+
+  <div class="optional" id="opt_tesla">
+   <h3 class="subtitle">Member star parties at Tesla Vineyard</h3>
+<style="margin-left:27px;">
+    <li> 4/22 </li>
+    <li> 6/10 </li>
+    <li> 10/7</li>
+<br>
+
+   Tesla Vintner star parties are generally open to club members and their guests.  The star parties will run from 6:00 PM
+   until midnight.  Tesla Vintners is in Livermore near the intersection of Tesla and Mines.  For
+   those new to the site, please use the unmarked west entrance (closest to Mines) to enter the
+   winery grounds.<br><br>
+
+  </div>
+
+<br><br>
+
+  
+
+
+  <h3 class="subtitle">We continue to rebuild the Hidden Hill Observatory</h3>
+  Our latest change is to add a shed for storing tools and portable telescopes.
+  Click on this image to see more pictures of our progress:<br><br>
+  <a href="images/fire/album/index.html" title="Fire images">
+   <img src="images/temp/shed_IMG_2955_resized.jpg" width="181" alt="Shed" 
+      title="Click to see our recontruction progress" style="floatxxx:right;">
+  </a><br><br>
+
+  <h3 class="subtitle">TVS Crystal Wine Glasses For Sale</h3>
+  <img src="images/wine_glass.jpg" alt="wine glass" width="200" height="243" style="float:right; margin: 0 20px 10px 10px;">
+  TVS is offering elegant crystal wine glasses for sale to club
+  members. You don't have to drink wine to enjoy the beautiful
+  TVS logo-etched stemware. Use them for your favorite beverage,
+  or they can be used as a beautiful container for small
+  plants. They are the perfect gifts for loved ones or friends.
+  Look for them at club meetings, where they will be sold for
+  $10/each. Don't drink alone, buy two! Support TVS.  Thanks to
+  <script type="text/javascript">
+    <!-- contact("secretary", "trivalleystargazers.org", "Jill Evanko"); -->
+  </script>
+  who got these wonderful glasses.<br><br>
+
+  <h3 class="subtitle">TVS Logo Wear</h3>
+  You may have seen some TVS members wearing shirts, caps and jackets
+  embroidered with the TVS logo. If you are interested in obtaining an
+  embroidered logo item, you can do so by ordering whatever you would like
+  through 
+  <a title="Land's End Corporate Sales" href="http://ocs.landsend.com/corpsales" target="_blank">
+   <b>Land's End's Corporate Sales</b>
+  </a>
+  section and specifying TVS logo #0118948. You will need to set up an account, which will 
+  ask for the logo number and the TVS customer number (3452021).  Before you order a cap, you
+  might want to check with Roland, who has ordered several to get a discount price.<br><br>
+
+<!-- OBSOLETE:
+  TVS has also set up shop at
+  <a title="Cafepress" href="http://www.cafepress.com/tvstargazers" target="_blank"><b>Cafepress</b></a>
+  for members to buy non-embroidered TVS logo wear. You can have the TVS
+  logo put on t-shirts, mugs, buttons, hats, coasters, etc. You buy
+  through Cafepress, and Cafepress sends TVS a portion of the proceeds.
+  Visit the web site to see all the TVS logo possibilities.<br><br>
+  <br><br>
+-->
+
+ </div>
+<!--#include virtual="trailer.shtml" -->
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+/* Simple.css :: Basic style sheet */
+
+.thumbs td:hover {
+	background-color:#444;
+}
+
+#navigation .home a {
+	background-image:url(home.png);
+}
+
+a.navigation,
+span.navigation {
+	background-image:url(navigation_d.png);
+}
+
+.contact-box {
+	background-color:#000;
+}
+
+.mainimage .caption a {
+	color:#258;
+}

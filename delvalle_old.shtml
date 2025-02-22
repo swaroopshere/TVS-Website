@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2022">
+  <meta name="description" content="The Tri-Valley Stargazers H2O Observatory">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Del Valle Observing Site</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "July 3, 2022";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_sites { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <div style="border-style: solid; background-color:#003354; color:white; padding: 12px;">
+    Please read the latest about our COVID-19 rules:
+    <a href="covid3.shtml" title="Click me to read the rules">
+      <button style="margin-left: 10px; border-radius: 6px; background-color: white; color: black;">Rules</button>
+    </a>
+  </div>
+
+  <a name="Anchor"></a>
+  <h1 class="title" style="width: 400px;">Del Valle Observing Site</h1>
+
+    <div class="content" style="width:930px;">
+
+      <h2 class="subtitle">About the Del Valle observing site</h2>
+
+      The East Bay Regional Park District (EBRPD) has granted TVS a Special Usage Agreement which allows regular and
+      patron club members in good standing and their guests to observe at a specified hilltop location within the park
+      any night of the year beyond the 10:00 PM curfew and until daybreak.  While this site is not as dark as
+      our <a href="h2o.shtml" title="Learn about the H2O observing site">Hidden Hill Observatory</a> observing site, it
+      is much closer to Livermore, and therefore more convenient.  To access the Del Valle site, you need to fill out
+      and sign the user agreement below and submit it to the club.  The agreement can also be found in
+      a <a href="pdfs/delvalle.pdf" title="See the Del Valle user agreement form">PDF file</a>.  You must also notify
+      the East Bay Parks every time you intend to use Del Valle.
+
+      <br><br>
+
+      Here is the Clear Sky Chart for the Del Valle observing site:<br>
+      <a title="Click here to see the Clear Sky Chart for Del Valle" href="http://www.cleardarksky.com/c/DelValleCAkey.html" target="_blank">
+       <img src="http://cleardarksky.com/c/HiddenOBCAcs0.gif?1" alt="Clear Sky Chart" >
+      </a><br><br>
+
+
+      <h2 class="subtitle">Notifying Del Valle Parks</h2>
+      You must notify East Bay Parks when you intend to use Del Valle.  Please send one copy of your email to each of the following:
+      <ul>
+        <li>
+	  Park Supervisor Rick Parente rparente@ebparks.org
+	</li>
+	<li>
+	  Del Valle Operations dvpark@ebparks.org
+	</li>
+	<li>
+	  Dispatch dispatch@ebparks.org
+	</li>
+      </ul>
+
+      Your email should include your name and cell number, your estimated arrival and departure times, and number of
+      vehicles in your group.  Include a statement of the following: I am a current member of Tri-Valley Stargazers and
+      approved to use the Del Valle area accessed through Gate D3.  I have reviewed my responsibilities according to the
+      TVS user agreement.  I have also verified as of this email that there are no Red Flag notices listed for the <a
+      href="https://www.ebparks.org/public-safety/fire/fire-warning-info">fire warning</a> web site.<br><br>
+
+
+      <h2 class="subtitle">Del Valle User Agreement</h2>
+
+      In exchange for the opportunity to use the Del Valle observing site, I agree to:
+      <ul>
+        <li>
+	  Notify the Del Valle Park Supervisor at 510-544-3141 of my intention to observe at the site, estimated
+	  arrival and departure times, and the number of vehicles in my group by no later than noon of the day of my
+	  visit (preferably 24 hours in advance).
+        </li>
+        <li>
+	  Notify the East Bay Parks Police Dispatch office at 510-881-1833 of my intention to observe at the site,
+	  estimated arrival and departure times, and that you'll be observing behind Gate D3.
+        </li>
+        <li>
+          Lock the gate behind me after entering the observing site. The gate is secured with a daisy-chain of locks,
+          and the TVS lock is the only combination lock. I will never dummy-lock the gate.
+        </li>
+        <li>
+	  Never give the lock combination to the site to anyone, including other club members; only board members
+	  are authorized to do so.
+        </li>
+        <li>
+	  Drive slowly and carefully while in the park to avoid raising any dust from the dirt road.
+        </li>
+        <li>
+	  If ten (10) vehicles are already at the site, I will park my vehicle outside the gate along the paved road to
+	  Del Valle Park.
+        </li>
+        <li>
+	  Set up at the observing site next to the fork in the fire road (about 1/4 mile from the gate) and park
+	  alongside the road, leaving adequate room for emergency vehicles to pass at all times. I won't park on top
+	  of any tall, dry grass to avoid accidentally starting a fire.
+        </li>
+        <li>
+	   Abide by all the rules established by TVS and EBRPD for the use of the site. I agree that these rules may be
+	  changed by TVS or EBRPD at any time. A complete listing of the EBRPD rules can be found
+	  <a href="https://library.municode.com/ca/east_bay_regional_park_district/codes/ordinance_38_-_rules_and_regulations?nodeId=IN">here</a>.
+	  In particular, these include:
+	  <ul>
+            <li>Absolutely no smoking or fires of any kind</li>
+	    <li>No littering</li>
+	    <li>No loud noises or music</li>
+	    <li>No alcoholic beverages</li>
+	  </ul>
+        </li>
+	<li>
+	  Always personally escort any guests to and from the site and remain with them at all times while at the site.
+	</li>
+	<li>
+	  Be responsible for ensuring that my guests abide by all the TVS and EBRPD rules while visiting the site.
+	</li>
+	<li>
+	  Lock the gate behind me after leaving the observing site.
+	</li>
+	<li>
+	  Carry a copy of this Agreement, counter-signed by the TVS Del Valle Coordinator or officer, with me
+	  while I am at the site.
+	</li>
+      </ul>
+
+      By my signature below I show that I have read and understood the above conditions for observing at the Del Valle
+      site. I understand that the failure to comply with any of these conditions may result in the revocation of my
+      privileges.<br>
+      <ul style="list-style-type:none">
+        <li>Print Name: ______________________________________________ Date: ____________________</li><br>
+        <li>Email: ___________________________________________________</li><br>
+        <li>Mobile phone number (for emergency contact): ____________________________________________</li><br>
+        <li>Signature: ________________________________________________</li><br>
+        <li>Approved by: _______________________________________________________________________</li>
+      </ul>
+      Sign and return this form to TVS by any of the following (email is preferred):<br>
+      <ol>
+        <li>
+         Email to our Del Valle
+         <script type="text/javascript">
+          <!--
+           contact("delvalle",      "trivalleystargazers.org",     "coordinator");
+          //-->
+         </script>
+         as a signed document, or
+	</li>
+        <li>Mail to Tri-Valley Stargazers, P.O. Box 2476, Livermore CA 94551, or</li>
+        <li>Bring it to a regular TVS general meeting and hand it to an officer of the Club.</li>
+      </ol>
+      Upon approval, you will be given a map showing the location of the site and the combination to 
+      the lock on the access gate.<br><br><br><br>
+
+    </div>		<!-- end div class=content -->
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>

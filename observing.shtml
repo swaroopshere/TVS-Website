@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2020">
+  <meta name="description" content="The Tri-Valley Stargazers observing programs">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Observation Programs</title>
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+  <script src="tvs.js" type="text/javascript"></script>
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = Oct 19, 2024";
+   //-->
+  </script><!-- The id for the button that needs to be underlined. -->
+    <style type="text/css">#appleNav li a#m_activities { text-decoration: underline;}</style>
+</head>
+<body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+<h1 class="title" style="width: 500px;">Observing Programs</h1>
+<h2 class="subtitle">Overview</h2>
+   We offer several observing programs to TVS club members.  These programs are designed to help you
+   improve your observing skills and familiarity with the best deep-sky objects in the sky during
+   each season.  If you complete a program, it should make you more comfortable in participating in
+   the club's outreach events and prepare you for participating in the Astronomical League's more
+   extensive 
+      <a href="https://www.astroleague.org/observing.html" title="Learn about Astroleague programs" target="_blank">observing programs</a>.
+
+   Our programs are designed to be completed by an individual in a single season.  Some programs may
+   require a 4-inch or greater telescope.  Certificates will be awarded to members who complete a
+   program.<br>
+
+<br>
+<h2 class="subtitle">Available programs</h2>
+   <a href="observing_summer.shtml" title="learn about this program">Summer program</a><br>
+   <a href="observing_autumn.shtml" title="learn about this program">Autumn program</a><br>
+   <a href="observing_winter.shtml" title="learn about this program">Winter program</a><br>
+   <a href="observing_spring.shtml" title="learn about this program">Spring program</a><br>
+
+   <br>
+<h2 class="subtitle">Observing Techniques</h2>
+   Many of our programs require that you record information about how good the seeing and sky transparency were.  There
+   are many ways to do this, but you can read
+   <a href="observing_techniques.shtml" title="techniques">here</a>
+   for simple techniques that are suitable for our programs.<br>
+<br>
+   Also do not overlook the resources on the Internet for learning about astronomy, telescopes and how to expand your
+   skills. Observing is a particular skill required for astronomy and must be developed, this includes the ability to
+   see features that may be fleeting when you do direct observation. We recommend that you use Internet to research each
+   object in a program before doing your own observations. Online images are spectacular in comparison to what you'll
+   see in a smaller aperture however you may be able to see many of the same features - outer stars may be resolved
+   when looking at globular clusters, the colors of Albireo will be more apparent after you've prepared yourself, the
+   dimensions of a lunar crater can be appreciated after you've researched it online. Prepare yourself for the
+   differences of what you see in a Hubble image and what you observe yourself and understand why. Look for the small
+   features and you'll learn to see the features acquired from large instruments. Get inspired!<br>
+<br>
+<h2 class="subtitle">Logging</h2>
+   To complete our programs, you will need to submit a log of what you saw and the conditions for your observations.
+   We provide logs in Excel format and PDF format as one way for you to do this, and you can read
+   <a href="observing_logging.shtml" title="logging">here</a>
+   for ideas on what information to include.<br>
+<br>
+<h2 class="subtitle">Awards</h2>
+    We have created a number of observing programs for exploring the night skies. These activities are
+    selected for seasonal observations as well as introductory activities
+    paralleling the Astronomical League and other astronomy club programs. When
+    you complete one of the programs you may submit your observations to the TVS
+<script type="text/javascript">
+      <!--
+       contact("awards", "trivalleystargazers.org", "Astronomical Observations Program");
+      //-->
+    </script> 
+    for their review and award recognition. <br>
+<br>
+    We recognize those who have completed these programs in the
+    following Honor Role and their certificate of completion number:
+<h3 class="subtitle">Summer</h3>
+<table class="awards" style="width: 100%;">
+        <tbody>
+          <tr>
+            <th>Cert #</th>
+            <th>Recipient</th>
+            <th>Date Awarded</th>
+          </tr>
+          <tr>
+            <td>#1</td>
+            <td>Jenny Siders</td>
+            <td>July 19, 2020</td>
+         </tr>
+         <tr>
+           <td>#2</td>
+           <td>Ron Kane</td>
+           <td>July 19, 2020</td>
+         </tr>
+         <tr>
+           <td>#3</td>
+           <td>Roland Albers</td>
+           <td>July 22,2020</td>
+         </tr>
+         <tr>
+           <td>#4</td>
+           <td>Ross Gaunt</td>
+           <td>July 27, 2020</td>
+         </tr>
+         <tr>
+           <td>#5</td>
+           <td>Ken Sperber</td>
+           <td>August 11, 2020</td>
+         </tr>
+         <tr>
+           <td>#6</td>
+           <td>Dennis Beckley</td>
+           <td>August 27, 2020</td>
+	 </tr>
+<tr>
+           <td>#7</td>
+           <td>John Barclay</td>
+           <td>July 15,2022</td>
+	 </tr>
+<tr>
+            <td>#8 Imaging and Sketching</td>
+            <td>Maria Razbash and Vladimir Afanasiev </td>
+            <td>June 8, 2024</td>
+          </tr>
+<tr>
+           <td>#9</td>
+           <td>Johnathan Bailey</td>
+           <td>July 18,2024</td>
+	 </tr>
+
+</tbody>
+</table>
+   
+<h3 class="subtitle">Autumn</h3>
+<table class="awards" style="width: 100%;">
+        <tbody>
+    <tr>
+      <th>Cert #</th>
+      <th>Recipient</th>
+      <th>Date Awarded</th>
+    </tr>
+    <tr>
+      <td>#1</td>
+      <td>Ross Gaunt</td>
+      <td>October 16, 2020</td>
+    </tr>
+    <tr>
+      <td>#2</td>
+      <td>Roland Albers</td>
+      <td>October 23, 2020</td>
+    </tr>
+  <tr>
+      <td>#3</td>
+      <td>Ron Kane</td>
+      <td>November 17, 2020</td>
+    </tr>
+  <tr>
+      <td>#4</td>
+      <td>Dennis Beckley</td>
+      <td>November, 22, 2020</td>
+    </tr>
+ <tr>
+      <td>#5</td>
+      <td>Ken Sperber</td>
+      <td>November 30, 2020</td>
+    </tr>
+<tr>
+      <td>#6</td>
+      <td>Maria Razbash and Vladimir Afanasiev</td>
+      <td>July 9, 2024</td>
+    </tr>
+<tr>
+           <td>#7</td>
+           <td>Johnathan Bailey</td>
+           <td>October 4,2024</td>
+	 </tr>
+
+  </tbody>
+</table>
+
+<h3 class="subtitle">Winter</h3>
+<table class="awards" style="width: 100%;">
+        <tbody>
+          <tr>
+            <th>Cert #</th>
+            <th>Recipient</th>
+            <th>Date Awarded</th>
+          </tr>
+          <tr>
+            <td>#1 with 4 Bonus Stars</td>
+            <td>Ross Gaunt</td>
+            <td>January 18, 2021</td>
+          </tr>
+	  <tr>
+            <td>#2 with 1 Bonus Star</td>
+            <td>Ron Kane</td>
+            <td>February 6, 2021</td>
+          </tr>
+          <tr>
+            <td>#3 with 4 Bonus Stars</td>
+            <td>Dennis Beckley</td>
+            <td>February 28, 2021</td>
+          </tr>
+<tr>
+            <td>#4 with 4 Bonus Stars</td>
+            <td>Roland Albers</td>
+            <td>January 29, 2022</td>
+          </tr>
+<tr>
+            <td>#5 with 2 Bonus Stars - 2nd Award</td>
+            <td>Ron Kane</td>
+            <td>March 2, 2022</td>
+          </tr>
+<tr>
+            <td>#6 with 4 Bonus Stars +1 for Imaging</td>
+            <td>Maria Razbash and Vladimir Afanasiev </td>
+            <td>March 26, 2024</td>
+          </tr>
+<tr>
+           <td>#7 With 4 Bonus Stars</td>
+           <td>Johnathan Bailey</td>
+           <td>February 1, 2025</td>
+	 </tr>
+
+
+</tbody>
+</table>
+
+<h3 class="subtitle">Spring</h3>
+<table class="awards" style="width: 100%;">
+        <tbody>
+          <tr>
+            <th>Cert #</th>
+            <th>Recipient</th>
+            <th>Date Awarded</th>
+          </tr>
+          <tr>
+            <td>#1 with 3 of 3 Bonus Stars</td>
+            <td>Dennis Beckley</td>
+            <td>April 5, 2021</td>
+          </tr>
+          <tr>
+            <td>#2 with 3 of 3 Bonus Stars</td>
+            <td>Ross Gaunt</td>
+            <td>April 12, 2021</td>
+          </tr>
+          <tr>
+            <td>#3 with 3 of 3 Bonus Stars</td>
+            <td>Ron Kane</td>
+            <td>May 3, 2021</td>
+          </tr>
+          <tr>
+            <td>#4 with 3 of 3 Bonus Stars</td>
+            <td>Roland Albers</td>
+            <td>May 8, 2021</td>
+          </tr>
+          <tr>
+            <td>#5 with 3 of 3 Bonus Stars</td>
+            <td>John Barclay</td>
+            <td>May 9, 2022</td>
+          </tr>
+          <tr>
+            <td>#6   Second Award</td>
+            <td>Ron Kane</td>
+            <td>May 12, 2022</td>
+          </tr>
+<tr>
+            <td>#7   Third Award / 3 Bonus All Imaging</td>
+            <td>Ron Kane</td>
+            <td>May 10, 2023</td>
+          </tr>
+<tr>
+            <td>#8 with 3 Bonus Stars All Imaging</td>
+            <td>Maria Razbash and Vladimir Afanasiev</td>
+            <td>April 28, 2024</td>
+ 	  </tr>
+
+</tbody>
+</table>
+
+    <!--#include virtual="trailer.shtml" -->
+</body>
+</html>
+<br>
+<br>

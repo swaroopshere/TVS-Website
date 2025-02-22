@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers Resources">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>TVS Lending Library</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "August 18, 2015";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_resources { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+    <h1 class="title">Library</h1>
+
+    <div class="content" style="width:930px;">
+     <h2 class="subtitle">TVS Lending Library</h2>
+
+     TVS members can check out various items from the TVS library. We have a wide selection 
+     of astronomy books that cover everything from building your own telescope to the entire
+     universe, and everything in between.<br><br>
+
+     We have a selection of videos in VHS and DVD format. Add to that, various types of star 
+     charts for beginners as well as advanced observers.<br><br>
+
+     To check out a book or other item, come to a lecture meeting. The book will be due the 
+     following lecture meeting. There is no fee for borrowing a book, however if you lose or 
+     damage an item the club would like to be reimbursed for replacing the item.<br><br>
+
+    </div>		<!-- end div class=content -->
+
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>

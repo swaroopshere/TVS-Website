@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers H2O Observatory">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers H2O Observatory</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "February 12, 2021";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_sites { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <div style="border-style: solid; background-color:#003354; color:white; padding: 12px;">
+    Please read the latest about our COVID-19 rules:
+    <a href="covid3.shtml" title="Click me to read the rules">
+      <button style="margin-left: 10px; border-radius: 6px; background-color: white; color: black;">Rules</button>
+    </a>
+  </div>
+
+  <a name="Anchor"></a>
+  <h1 class="title" style="width: 400px;">H2O (Hidden Hill Observatory)</h1>
+
+    <div class="content" style="width:930px;">
+
+      <h2 class="subtitle">TVS Club Observatory and Dark Observing Site</h2>
+
+      The club leases a comparatively dark-sky observing site on a hilltop in the Diablo Mountains south of Livermore
+      and east of San Jose. The name of the site is "Hidden Hill Observatory". The reason for that name is that the
+      site is not open to the public and we do not want its location publicized. Also because it has a cool
+      abbreviation: H2O.<br><br>
+
+      The site is well located for long-exposure astrophotography and deep-sky observing, especially in the southern
+      part of the sky (we can see Omega Centauri in binoculars, well above the horizon but mostly obscured by
+      lights). The site is at about 2400 feet in elevation and has an excellent low southern horizon looking over a
+      large dark valley. It is not as dark as a remote location in the Sierra Nevada mountains, of course, but it is one
+      of the darkest locations that is a convenient driving distance from the East San Francisco Bay Area. The site's
+      location is not public, but we can tell you that it is approximately a 40 to 60 minute drive to the site from
+      Livermore. The road is a mountain road: well paved, but narrow, windy, steep, unlit, one lane much of the way and
+      there are no services available of any kind. Much of the road does not have any cell phone coverage. We do get a
+      good signal from Verizon at the site, but not AT&T. There is no electricity or water at the site. The
+      toilet facilities are primitive. There are no gas stations in the area. So if you go, be prepared. <br><br>
+
+      This is private property, secured and restricted for authorized members and their guests at all times. Authorized
+      (key holding) members can access the site any day of the year. Non-key holding members and the general public must
+      be escorted to, while at, and from the site by key holding members -- NO EXCEPTIONS. To become an authorized
+      member, visit our <a href="h2oagreement.shtml">user agreement</a> web page. <br><br>
+
+      At least twice a year we try to hold an "open house" so that new and prospective members can visit the site. But
+      the house is not really completely open. This is just a scheduled opportunity for a group to be escorted to the
+      site and enjoy a night of observing.<br><br> 
+
+      <img src="images/group.jpg" alt="Group of people" height="361" width="540" border="0"><br>
+      <i>A group of people at a recent H2O Open House.  Photo by H. Jones.</i><br><br>
+
+      <img src="images/h2osouth.jpg" alt="H2O south" height="232" width="540" border="0"><br>
+      <i>The View to the South from the Observatory. Photo by G. Gottschalk.</i><br><br><br>
+
+      <img src="images/h2oeast.jpg" alt="H2O north and east" height="242" width="540" border="0"><br>
+      <i>The View to the North and East from the Observatory. Photo by G. Gottschalk.</i><br><br><br>
+
+      <img src="images/west.gif" alt="Observing sites" height="144" width="319" border="0"><br>
+      <i>
+       Looking west we see three tiers of parking/observing sites<br>
+       and a neighbor's [1] little observatory [2] on the hill [3] on the horizon.<br><br>
+      </i>
+
+      They, being higher, have better seeing, but we have a darker sky.<br>
+      [1] University of California, Santa Cruz<br>
+      [2] Lick Observatory with the 120 inch Shane Telescope<br>
+      [3] Mount Hamilton<br><br>
+
+      Here is the Clear Sky Chart for our observing site:<br>
+      <a title="Click here to see the Clear Sky Chart for H2O" href="http://cleardarksky.com/c/HiddenOBCAkey.html" target="_blank">
+       <img src="http://cleardarksky.com/c/HiddenOBCAcs0.gif?1" alt="Clear Sky Chart" >
+      </a><br><br>
+
+      <a id="history"></a>
+      <h2 class="subtitle">H2O history</h2>
+
+      Jack and Pat started using the club's dark sky site soon after the club was formed.  Records show
+      that on 12/09/82 Jack signed a $100 lease agreement with the owners of the property where the
+      site is located.  Then a road was built and the south side of the hill was terraced so multiple
+      observers could use the site without blocking each other's views.  The site had been referred to
+      by the name of the ranch for many years (a name which we no longer speak, to avoid unauthorized
+      access). Under President David Anderson the board of directors named the building the "Sky
+      Shack".  After a vote by the Board in September 1998, the site was named "Hidden Hill
+      Observatory".  For many years in the 1990's and 2000's, star parties were held every month at the
+      site.<br><br>
+
+      Jack, Pat and Roger Peterson built the original slide-off roof observatory in 1982-1983, and
+      Jack built the observatory's Coulter 17.5" telescope and mount, which were operational in
+      1983.  He donated the observatory to the club later.  The scope was known as the Jack Marling Telescope
+      and the building was known as "The Sky Shack".<br><br>
+
+      <img src="images/h2oobsy.jpg" alt="Observatory" height="240" width="540" border="0"><br>
+      <i>The original Sky Shack Observatory. The roof slid off to the left. Photo by G. Gottschalk.</i><br><br>
+
+      On August 31 2019, we finished a complete renovation of the observatory, including beefing up
+      the foundation, replacing half the flooring, replacing the battery and solar charger, and
+      redesigning the electrical system.  We replaced the mount with a modern AP1200 mount that had
+      been donated to the club by Nancy Finley with the help of the EAS.  This effort was led by Gert
+      Gottschalk and Chuck Grant.  Unfortuntately most of this work was lost during a wildfire in
+      2010.<br><br>
+
+      Herb Quick started building his fiberglass Home-Dome with Meade DS16 telescope in 1999 and
+      donated it, unfinished, to the club in 2007 upon his death. In the early days a log book was
+      kept to keep track of the site's usage.  The dome remained unused until 2019, when Ross Gaunt
+      undertook to restore it.  He completed repairs to make it water-proof and rodent-proof, and
+      added new floor and carpeting.  He also installed a new electrical system with a battery and
+      solar charger.  We purchased a new Software Bisque mount and installed a Celestron C14 that
+      had been donated to the club by the estate of John Westfall.  The Paramount was made possible
+      by a donation from Ross Gaunt.  The Herb Quick Observatory is still on the site at H2O.  The
+      building and the telescope have not been formally named, but the dome has acquired the
+      nickname "The Thunder Dome" due to the noise generated when it rotates.  <br><br>
+
+      The site also has four permanent piers which have bolt hole patterns suitable for mounting
+      Schmidt-Cassegrains and other portable telescopes and lots of flat, hard ground suitable for
+      Dobsonian and tripod mounted telescopes. There is room for parking 12-15 cars on top of the
+      hill, with more parking below (our observing area is entirely on the top of the hill). As many
+      as 10 cars can be parked in good observing locations with room to set up your telescope next
+      to your car. <br><br>
+
+      <img src="images/Ross_Dave_D0042_0010.jpg" alt="Herb Quick observatory" width="360" height="240" border="0"><br>
+      <i>Ross and Dave with the Herb Quick observatory's equipment.  Photo by H. Jones.</i><br><br>
+
+      <img src="images/marling.jpg" width="360" height-"270" border="0"><br>
+      <i>Jack Marling with his scope and club's new AstroPhysics mount.  Photo by G. Gottschalk.</i><br><br>
+
+      <img src="images/dedication.jpg" width="360" height-"270" border="0"><br>
+      <i>Patron members with Jack Marling at the dedication ceremony.  Photo by G. Gottschalk.</i><br><br>
+
+      Gert Gottschalk has also taken some nice
+      <a href="http://www.trivalleystargazers.org/gert/h2o_openhouse_20130504/h2o_openhouse_20130504.htm" 
+         target="_blank" title="See photos from a recent open house">photos</a>
+      at a recent open house.<br><br><br>
+
+      <h2 class="subtitle">H2O Reconstruction</h2>
+
+      In August of 2020, a large wildfire of nearly 400,000 acres burned through the area.  It
+      destroyed the slide-off roof observatory and the equipment inside.  Fortunately the dome survived
+      with almost no damage.  You can see pictures of the damage done and reconstruction progress
+      by clicking the picture:<br><br>
+        <a href="images/fire/album/index.html" title="Fire images">
+          <img src="images/fire/img_1547b.jpg" width="372px" alt="Fire damage" 
+            title="Click to see more fire damage and reconstruction" style="display:block;
+	    margin-left:auto; margin-right:auto;">
+        </a>
+      <br><br>   
+
+     <h3 class="subtitle">Donations to TVS reconstruction</h3>
+     
+     In the wake of the SCU Lightning Complex Wildfire that destroyed the H2O main observatory there was an outpouring
+     of generosity to TVS from astronomy enthusiasts worldwide.  We are pleased to announce a major donation to the TVS
+     by David Friedberg, CEO of <a href="https://www.theproductionboard.com/" title="Visit The Production Board"
+     target="_blank">The Production Board</a>, of a 20" PlaneWave Corrected Dall-Kirkham (CDK) Telescope, a Mathis
+     MI-750 Fork mount, and a motorized 3.5 meter Observa-DOME! This donation was brokered by Prof. Alex Filippenko of
+     UC Berkeley.<br><br>
+
+     <b>See <a href="donors.shtml" title="List of donors">here</a> for a list of donors.</b><br><br>
+
+   </div>		<!-- end div class=content -->
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>

@@ -1,0 +1,13 @@
+<!--#if expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) &&
+(${HTTP_USER_AGENT} != /MSIE/)" -->
+ Netscape styles
+<!--#elif expr="(${HTTP_USER_AGENT} = /Mozilla\/4/) &&
+(${HTTP_USER_AGENT} = /MSIE/)" -->
+   <!--#if expr="${DOCUMENT_URI}=/flashy-site/" -->
+     Flasy MSIE stlyes
+   <!--#elif expr="${DOCUMENT_URI}=/plain-site/" -->
+     Plain MSIE styles
+   <!--#endif -->
+<!--#else -->
+You must be using Opera or sumfin?
+<!--#endif -->

@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Ron Kane">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="About the Tri-Valley Stargazers">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>About the Tri-Valley Stargazers</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "Jan 9, 2024";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_about { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <h1 class="title">About Us</h1>
+
+  <div class="content" style="width:930px;">
+   <h2 class="subtitle">Our Mission</h2>
+   The Tri-Valley Stargazers (TVS) is an amateur astronomy club based in Livermore, California with
+   members from throughout the Tri-Valley and surrounding communities. The club's mission is to
+   bring together individuals interested in astronomy, to provide opportunities for them to develop
+   their skills and knowledge in astronomy and related subjects, and to promote education and public
+   interest in astronomy. TVS is a registered non-profit organization and is entirely run by
+   volunteers.  Our Tax Identification Number is 68-0243508, and you can reach us at P.O. Box 2476, 
+   Livermore, CA 94551.
+
+   <h2 class="subtitle">Club Meetings</h2>
+   TVS holds club meetings on the third Friday of every month at the 
+   <a href="http://www.uucil.org/" title="Visit the church" target="_blank">Unitarian Universalist Church</a>
+   at 1893 North Vasco Road in Livermore. Most meetings start at 7:30 PM and include updates on club
+   activities, short presentations by club members, a featured presentation by an invited speaker,
+   and conclude with refreshments and conversation. Invited speakers have come from organizations
+   such as NASA, UC Berkeley, and Lawrence Livermore National Laboratory.  The TVS club meetings are
+   always open to the public. <br><br>
+
+   In lieu of a lecture meeting, we usually hold a barbecue during one of the summer club meetings
+   and a potluck dinner during the December meeting. These meetings start at 7:00 PM and are devoted
+   to good food and conversation. <br><br>
+
+   The TVS board of directors meets every month on the Monday following the general club meeting.
+   Board meetings are open to all club members.<br><br>
+
+   More details about upcoming TVS meetings can be found on our 
+   <a href="./index.shtml" title="Visit our home page">home page</a>.<br><br>
+
+   <h2 class="subtitle">Public star parties</h2>
+   TVS holds star parties throughout the year for the benefit of a wide variety of educational and
+   recreational groups, such as ranger led programs at public parks, elementary and middle school
+   science fairs, boys and girls organizations, and foundations supporting numerous charitable
+   causes. These events are an opportunity for our members to share their enthusiasm for the night
+   sky with the public and to promote amateur astronomy. If you are interested in having TVS come to
+   your school or group, sending email
+   <script type="text/javascript">
+      <!--
+       contact("outreach", "trivalleystargazers.org", "here");
+      //-->
+   </script>
+   .<br><br>
+
+   <h2 class="subtitle">Membership</h2>
+   Membership in TVS is open to anyone with an interest in astronomy.  Members enjoy a wide variety
+   of benefits, such as access to the club's two dark-sky observing sites.  To learn more about club
+   membership and its benefits, click
+   <a href="http://www.trivalleystargazers.org/benefits.shtml" title="See benefits"> here</a>.
+
+   You can reach us by sending mail to P.O. Box 2476, Livermore, CA, 94551-2476, or by sending email
+   <script type="text/javascript">
+      <!--
+       contact("info", "trivalleystargazers.org", "here");
+      //-->
+   </script>
+   .<br><br>
+
+   <a name="orgs"></a>
+   <h2 class="subtitle">TVS supports the following organizations</h2>
+
+   <div align="center">
+    <p>
+     <a title="Astronomical League" href="http://www.astroleague.org/" target="_blank">
+      <img src="images/ALLogo.gif" alt="" width="100" border="0" height="100">
+     </a>
+     <img src="images/spacer32.gif" alt="" width="32" border="0" height="32">
+     <a title="Western Amateur Astronomers" href="http://www.waastro.org/" target="_blank">
+      <img src="images/waalogowblu.gif" alt="" width="100" border="0" height="102">
+     </a>
+     <img src="images/spacer32.gif" alt="" width="32" border="0" height="32">
+     <a title="Northern California Astronomy Resourses" href="http://sites.google.com/site/aancsite/home" target="_blank">
+      <img src="images/AANClogo.gif" alt="" width="162" border="0" height="80">
+     </a>
+    </p>
+    <p>
+     <a title="Night Sky Network" href="http://nightsky.jpl.nasa.gov/" target="_blank">
+      <img src="images/NightSkyBannerTagsm.gif" alt="" width="288" border="0" height="58">
+     </a>
+     <img src="images/spacer32.gif" alt="" width="32" border="0" height="32">
+     <a title="International Dark-Sky Association" href="http://www.darksky.org/" target="_blank">
+      <img src="images/subhdr_ida.gif" alt="" width="181" border="0" height="57">
+     </a>
+    </p>
+    <p><br></p>
+   </div>
+  </div>		<!-- end div class=content -->
+
+<!--#include virtual="trailer.shtml" -->
+ </body>
+</html>

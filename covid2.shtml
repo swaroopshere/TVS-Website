@@ -1,0 +1,36 @@
+	<button id="myBtn">Open COVID info</button>
+	<div class="modal" id="myModal">
+	  <div id="modal-frame">
+	    <div class="modal-header">
+	      <div class="title">Our COVID19 rules</div>
+	      <button class="close-button">&times;</button>
+	    </div>
+	    <div class="modal-body">
+	      Due to the COVID-19 health crisis, the following restrictions are in effect for our observing sites at Del
+	      Valle and H2O:
+	      <ul>
+	        <li>The observing sites are open for use by club members and immediate family only; no guests or group events are allowed</li>
+	        <li>You use the observing sites at your own risk and agree to hold the club and the landowners free of all liability</li>
+	        <li>Do not use either observing site if you are not feeling well or suspect you were recently exposed to the virus</li>
+	        <li>Announce your intention to use either site on the club's groups.io group</li>
+	        <li>While at either site maintain social distancing of at least 15 feet (about a car's length) or greater</li>
+	        <li>Bring hand sanitizer and use it before and after touching any locks or facilities</li>
+	        <li>H2O users should wear a mask while at the landowner's home depositing the daily usage fee</li>
+	        <li>H2O users should wear a mask while at the landowner's home depositing the daily usage fee</li>
+	        <li>H2O users that wish to use the Quick Dome should first contact Ross Gaunt to reserve it for individual use for the day</li>
+	      </ul>
+
+	      During the current curfew the following two additional restrictions apply:
+	      <ul>
+	        <li>Plan your visit to either site so that you can either return home by 10:00 PM or leave for home after 5:00 AM</li>
+		<li>Only three club members (along with any family members) can use either site at any time</li>
+              </ul>
+
+	    </div>
+	  </div>
+	</div>
+        <script type="text/javascript">
+	   <!--
+	        modal_init();
+	   //-->
+	</script>

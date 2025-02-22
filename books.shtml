@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2015">
+  <meta name="description" content="The Tri-Valley Stargazers suggested reading">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy, reading, references">
+  <title>Recommended Reading</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "August 17, 2015";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_resources { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+    <a name="Anchor"></a>
+    <h1 class="title">Reading</h1>
+
+    <div class="content" style="width:930px;">
+
+     <h2 class="subtitle">Recommended Books</h2>
+
+     <i>Skywatching</i>. David Levy, introduction by Robert Burnham. One of the Nature Company Guides published by Time-Life Books.<br><br>
+     <i>Stars and Planets</i>: Peterson Field Guide Series. Donald Menzel, Jay Pasachoff. Houghton Mifflin Company, Boston, MA.<br><br>
+     <i>Skyguide</i>. Mark Chartrand III. Golden Press, NY. Western Publishing Co., Inc., Racine, WI.<br><br>
+     <i>Star Ware, The Astronomer&rsquo;s Ultimate Guide to Choosing, Buying, and Using Telescopes and Accessories</i>.<br>
+     Philip S. Harrington. John Wiley &amp; Sons, Inc., NY.<br><br>
+     <i>Touring the Universe Through Binoculars, A Complete Astronomer&rsquo;s Guidebook</i>. Philip S. Harrington.<br>
+     John Wiley &amp; Sons, Inc., NY.<br><br>
+     <i>The Backyard Astronomer&rsquo;s Guide</i>. Terence Dickinson and Alan Dyer. Camden House Publishing.<br><br>
+     <i>NightWatch</i>. Terence Dickinson. Firefly Books Inc., Buffalo, NY.<br><br>
+     <i>Astronomy, a Self Teaching Guide</i>. Dinah L. Moch&eacute;. John Wiley &amp; Sons, Inc., NY.<br><br>
+     <i>Astronomy Today</i>. Eric Chaisson and Steve McMillan. Prentice-Hall, Inc.<br><br>
+     <i>Turn Left at Orion</i>. Guy Consolmagno and Dan M. Davis. Cambridge University Press. (Look for the first or second edition 
+     as the third edition was printed on thin paper, making it hard to read the star charts.)<br><br>
+     <i>National Audubon Society Field Guide to the Night Sky</i>. Mark R. Chartrand. Alfred A. Knopf, N.Y.<br><br>
+     <i>Annals of the Deep Sky: A Survey of Galactic and Extragalactic Objects</i>. Jeff Kanipe and Dennis Webb; published
+	by Willmann-Bell.  
+	The most up-to-date and comprehensive observing guide available today, with multiple volumes featuring 
+	in-depth astrophysical profiles	of the major stars and deep-sky objects by constellation.<br><br>
+     <i>The Year-Round Messier Marathon Field Guide</i>.  Harvard Pennington, published by Willmann-Bell.  A practical
+  	guide for viewing all 110 Messier objects.<br><br>
+     <i>Pocket Sky Atlas</i>.  Roger W. Sinnott, published by Sky &amp; Telescope.  A compact sky atlas that
+	works very well in the field.<br><br>
+     <i>Binocular Highlights</i>.  Gary Seronik, published by Sky &amp; Telescope.  A nice guide for exploring
+	the sky with binoculars.<br><br>
+
+
+    </div>		<!-- end div class=content -->
+
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>

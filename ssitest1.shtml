@@ -1,0 +1,5 @@
+<!--#if expr="$DATE_LOCAL = /^Saturday/ || $DATE_LOCAL = /^Sunday/" -->
+<p>It's the weekend!</p>
+<!--#else -->
+<p>It's not the weekend...</p>
+<!- #endif -->

@@ -1,0 +1,18 @@
+/* See: humanstxt.org */
+
+/* TEAM */
+  Album template author: Laszlo Molnar
+  Site: http://lazaworx.com/
+  Contact: m_laca@yahoo.com
+  Location: Budapest, Hungary
+
+/* THANKS */
+  jAlbum team (http://jalbum.net/), jGromit, mrag, robM
+  textures: webtexture.net, www.tamararogers.co.uk, subtlepatterns.com
+  translators: Jan Trcka, Klaus Sassenfeld, Guy Deneyer, Eyael, Danamel, Pentti Stenman, Giovanni D'Amico, Jaehyung Lee, Freek Pol, Luis Simas Menem, Marko Ambrozic, David Ekholm
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Zurb Framework 6, Modernizr, jQuery, Google Maps, PayPal, Facebook API, Google API
+  Software: jAlbum
+

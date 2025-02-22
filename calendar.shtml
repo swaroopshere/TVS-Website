@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers calendar">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Calendar</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "August 28, 2018";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_calendar { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <h1 class="title">Calendar</h1>
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td rowspan="3"><br></td>
+          <td rowspan="3"><br></td>
+          <td colspan="3"><br></td>
+          <td valign="top" width="511" align="left">
+           <br>
+           <div align="left">
+
+            <!-- // Begin Current Moon Phase HTML (c) CalculatorCat.com // -->
+            <div style="width:273px">
+	     <div style="padding:2px;background-color:#000000;border: 1px solid #000000">
+	      <div style="padding:16px;padding-bottom:6px;padding-top:6px;border: 1px solid #AFB2D8" align="center">
+	       <div style="padding-bottom:7px;color:#FFFFFF;font-family:arial,helvetica,sans-serif;font-size:11px;letter-spacing:.3em;">CURRENT MOON</div>
+	       <script language="JavaScript" type="text/javascript">
+	         var ccm_cfg = { pth:"http://www.moonmodule.com/cs/", fn:"ccm_h1.swf", lg:"en", hs:1, tf:"12hr", scs:1, df:"mdy", dfd:1, tc:"FFFFFF", bgc:"000000", mc:"000000", fw:184, fh:79, js:0, msp:0, u:"cc" }
+	       </script>
+	       <script language="JavaScript" type="text/javascript" src="http://www.moonmodule.com/cs/ccm_fl.js"></script>
+	       <div style="padding-top:5px" align="center">
+	        <a href="http://www.calculatorcat.com/moon_phases/moon_phases.phtml" target="cc_moon_ph" 
+	              style="font-size:10px;font-family:arial,verdana,sans-serif;color:#7F7F7F;text-decoration:underline;background:#000000;border:none;">
+	         <span style="color:#7F7F7F">moon phase</span>
+	        </a>
+	       </div>
+	      </div>
+	     </div>
+	    </div>
+	    <!-- // end moon phase HTML // -->
+           </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="6" valign="top" align="left" width="1302">
+            <br><br>
+
+	    <h1>
+	      This web page is now obsolete and will soon go away  In the mean time you can see 
+              the club's calendar of events by visiting
+  	      <a href="https://groups.io/g/trivalleystargazers/calendar" title="See our calendar" target="_blank">groups.io</a>.
+            </h1>
+	    <br><br>
+            Comments are welcome on possible replacements.  Give them to
+           <script type="text/javascript">
+             <!-- 
+               contact("webmaster", "trivalleystargazers.org", "Hilary Jones"); 
+             -->
+           </script>
+           .<br><br>
+
+	    <!-- Upcoming events start here -->
+	    <table style="font-size:medium; font-family:Arial; font-color:black;" border="0" cellpadding="1" cellspacing="4">
+           	<tbody>
+                <tr>
+                  <!-- The following dummy cells establish the sizes for the rest of the event table entries -->
+                  <td style="width:75px;">&nbsp;</td>
+                  <td style="width:120px;">&nbsp;</td>
+                  <td style="width:555px;">&nbsp;</td>
+                </tr>
+
+ 	        <!-- Start of month -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">August 2019</h3></td>
+                </tr>
+		<script type="text/javascript">
+		<!--
+                  event("", "", "");
+
+                  event("1", "03:12 UT", "New Moon");
+                  event("3", "7:30 pm", "TVS outreach party at Del Valle staging area");
+                  event("4-5", "Dusk", "Waxing Lunar crescent in Virgo near Porrima and Spica");
+                  event("6", "6:30 pm", "TVS outreach party at Bankhead theater");
+                  event("7", "Dusk", "First quarter Moon in Libra halfway between Alpha and Beta Librae");
+                  event("7", "17:31 UT", "First quarter Moon");
+                  event("8", "8:00 pm", "TVS outreach party at Taylor Family Foundation Camp");
+                  event("9", "Dawn", "Mercury at greatest western elongation");
+                  event("9", "Evening", "Moon and Jupiter about 2° apart, with Antares nearby");
+                  event("11", "Evening", "Moon and Saturn about 3° apart");
+                  event("12-13", "Late night", "Predicted peak of Perseid meteor shower");
+                  event("15", "12:29 UT", "Full Moon");
+                  event("16", "7:30 pm", "TVS club meeting");
+                  event("19", "7:30 pm", "TVS board meeting");
+                  event("23", "14:56 UT", "Last quarter Moon");
+                  event("24", "6:00", "TVS open house at H2O");
+                  event("24-25", "Dawn", "Moon in Taurus near Aldebaran, occults Zeta Tauri");
+                  event("27", "Dawn", "Lunar crescent 6-7° from Pollux");
+                  event("28", "Dawn", "A sliver of the Moon is in or near M44 (the Beehive cluster)");
+                  event("30", "10:37 UT", "New Moon");
+
+		 //-->
+		</script> 
+
+		<!-- End of month -->
+
+ 	        <!-- Start of month -->
+                <tr>
+                  <td colspan="3"><h3 class="subtitle">September 2019</h3></td>
+                </tr>
+		<script type="text/javascript">
+		<!--
+                  event("", "", "");
+
+                  event("5", "Evening", "Moon and Jupiter above Antares");
+                  event("6", "3:10 UT", "First quarter Moon");
+                  event("6", "Dusk", "Moon, Jupiter and Saturn in Scorpius");
+                  event("6", "11:05 pm", "Algol at minimum brightness");
+                  event("7", "Dusk", "Saturn to upper right of Moon in Sagitarius");
+                  event("8", "Dusk", "Saturn and Moon 7° apart");
+                  event("9", "7:54 pm", "Algol at minimum brightness");
+                  event("14", "04:33 UT", "Full Moon");
+                  event("20", "Dawn", "Moon in Hyades");
+                  event("20", "7:30 pm", "TVS club meeting");
+                  event("22", "02:41 UT", "Last quarter Moon");
+                  event("23", "Morning", "Moon in Gemini forms triangle with Castor and Pollux");
+                  event("23", "12:50 am", "Autumn begins at the equinox");
+                  event("23", "7:30 pm", "TVS board meeting");
+                  event("24, 25", "Morning", "Moon near Beehive Cluster (M44)");
+                  event("26", "Dawn", "Moon 3° from Regulus");
+                  event("28", "18:26 UT", "New Moon");
+                  event("29", "9:34 pm", "Algol at minimum brightness");
+
+		 //-->
+		</script> 
+
+		<!-- End of month -->
+
+             </tbody>
+      	    </table>
+	    <br><br>Entries for this calendar were adapted from Sky and Telescope magazine and other sources.<br><br>
+          </td>
+        </tr>
+        
+        <!-- The following lines control the layout -->
+        <tr>
+          <td colspan="6" width="1302"></td>
+        </tr>
+        <tr>
+          <td width="12" height="1"></td>
+          <td width="1" height="1"></td>
+          <td width="1" height="1"></td>
+          <td width="1" height="1"></td>
+          <td width="2" height="1"></td>
+          <td width="511" height="1"></td>
+          <td width="91" height="1"></td>
+          <td width="695" height="1"></td>
+        </tr>
+
+      </tbody>
+    </table>
+    <br><br>
+<!--#include virtual="trailer.shtml" -->
+
+</body>

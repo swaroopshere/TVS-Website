@@ -1,0 +1,271 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="author" content="Hilary Jones">
+  <meta name="copyright" content="Tri-Valley Stargazers, 2014">
+  <meta name="description" content="The Tri-Valley Stargazers links">
+  <meta name="keywords" content="Tri-Valley, Stargazers, astronomy">
+  <title>Tri-Valley Stargazers Links</title>
+
+  <link href="tvs.css" rel="stylesheet" type="text/css">
+
+  <script src="tvs.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+   <!--
+    lastUpdateDate = "June 22, 2021";
+   //-->
+  </script>
+  <!-- The id for the button that needs to be underlined. -->
+  <style type='text/css'>#appleNav li a#m_resources { text-decoration: underline;}</style>
+
+ </head>
+
+ <body>
+<!--#include virtual="free_find.shtml" -->
+<!--#include virtual="leader.shtml" -->
+  <a name="Anchor"></a>
+  <h1 class="title">Links</h1>
+  <br><br><br>
+
+  <div id="links_holder">
+  
+  <!--
+    <span id="XXX" class="links_topic" onclick="showLinksDetails(this);">XXX<span>
+    <div id="D_XXX" class="links_details">
+      <a href="XXX" target="_blank">XXX</a><br>
+      <div class="links_comment">XXX</div>
+    </div>
+    <br>
+  
+  -->
+  
+    <span>Topic</span>
+    <div class="links_details" style="display:block; top:0px;">Details</div><br>
+    <hr style="width:800px; margin-left:0px;">
+  
+    <span id="overview" class="links_topic" onclick="showLinksDetails(this);" style="font-weight:bold;">Overview</span>
+    <div id="D_overview" class="links_details" style="display:block;">
+  	In order to use this web page, click on one of the topics to the left.  Then the text in this box will be
+  	changed to point to some sites that expand on the topic you have chosen.  Many of these
+  	sites contain YouTube videos that will help you to get started with stargazing and telescope basics.
+          Thanks to Ross Gaunt for providing many of these links.
+    </div>
+    <br>
+  
+    <span id="general" class="links_topic" onclick="showLinksDetails(this);">General Astronomy Sites</span>
+    <div id="D_general" class="links_details">
+      <a href="http://www.astro-imaging.com" target="_blank">Astrophotography</a><br>
+         <div class="links_comment">Rob Kantelberg's web site has a wealth of information about astrophotography. You can learn here how to focus
+    	better, do calibration frames, and so on. The site also has some good tutorials on how to use the popular
+    	PixInsight program.</div>
+      <a href="http://www.teachastronomy.com" target="_blank">Teach Astronomy</a><br>
+         <div class="links_comment">Teach Astronomy is an astronomy learning tool, intended either as a supplement for classroom instruction or for
+    	informal learners wanting to know more about the subject. This site has a very comprehensive set of learning
+    	tools, including text book courses, images, news articles, and video lectures.</div>
+      <a href="http://www.planetsofthesolarsystem.net" target="_blank">Planets</a>
+         <div class="links_comment">This site has information about the bodies of the solar system (planets, dwarf planets,
+    	moons, comets, etc.), and how the solar system formed.</div>
+      <a href="http://www.heavens-above.com" target="_blank">Heavens Above</a>
+         <div class="links_comment">Orbital predictions for many satellites, including the International Space Station, the
+    	Iridium Satellites (which can be exceedingly bright -- a definite wow factor) and the space shuttle (if and when
+    	it's up). Plug in your latitude and longitude, and it will tell you where and what time to go out and look for
+    	the satellites.</div>
+      <a href="http://www.fourmilab.ch/earthview/vplanet.html" target="_blank">Earth and Moon Viewer</a>
+         <div class="links_comment">This site lets you see what the Earth and Moon look like at any given time and place.</div>
+      <a href="http://photojournal.jpl.nasa.gov" target="_blank">Photo Journal</a>
+         <div class="links_comment">The NASA photojournal site -- lots of pictures of the planets taken from the various
+    	spacecraft sent out over the years (Voyager, Pioneer, Galileo, etc.).</div>
+      <a href="http://SkyandTelescope.com/resources/organizations" target="_blank">Sky &amp; Telescope</a>
+         <div class="links_comment">This is a direct link to Sky &amp; Telescope's web page listing astronomy clubs throughout the U.S.</div>
+      <a href="http://oposite.stsci.edu/pubinfo/pictures.html" target="_blank">Hubble Telescope</a>
+         <div class="links_comment">Hubble Space Telescope Public Pictures.</div>
+      <a href="http://www.nineplanets.org" target="_blank">Nine Planets</a>
+         <div class="links_comment">The Nine Planets: A Multimedia Tour of the Solar System. This site has a lot of info and images of the planets.</div>
+      <a href="http://people.cst.cmich.edu/melli1a" target="_blank">Axel Mellinger</a>
+         <div class="links_comment">This is the web site of Axel Mellinger, a former Bay Area resident and TVS member. He's
+    	an amateur astronomer who takes excellent astrophotos. His composite Milky Way photo and his all-sky panoramic
+    	photo are an amazing achievement and can be purchased as posters from Sky Publishing (www.skyandtelescope.com).</div>
+      <a href="http://www.philharrington.net" target="_blank">Phil Harrington</a>
+         <div class="links_comment">Phil Harrington's web site. Covers some of the info in Phil's very helpful books</div>
+      <a href="http://www.darksky.org/" target="_blank">International Dark Sky Association</a>
+         <div class="links_comment">The International Dark Sky Association. Learn what you can do to help curb the
+    	widespread light pollution problem we have in our cities.</div>
+      <a href="http://www.badastronomy.com/index.html" target="_blank">Bad Astronomy</a>
+         <div class="links_comment">Phil Plait's web site devoted to clearing up popular misconceptions in astronomy and
+    	science. Quite amusing and informative.</div>
+    </div>
+    <br>
+    
+    <span id=articles class="links_topic" onclick="showLinksDetails(this)">Articles</span>
+    <div id="D_articles" class="links_details">
+      <a href="https://openstax.org/details/astronomy", target="_blank">1-2 semester introductory astronomy courses</a><br>
+      <a href="http://www.telescope.com/content.jsp?pageName=Glossary" target="_blank">Glossary (glossary for telescopes)</a><br>
+      <a href="http://www.telescope.com/Getting-Started/com/460.uts" target="_blank">How to get started in the hobby</a><br>
+    </div>
+    <br>
+    
+    <span id="intro" class="links_topic" onclick="showLinksDetails(this)">Intro to Stargazing</span>
+    <div id="D_intro" class="links_details">
+      <a href="http://www.youtube.com/watch?v=r3w6kKkang8" target="_blank">Stargazing - Getting Started in Astronomy</a><br>
+      <a href="http://www.youtube.com/watch?v=XUbG8jboh4M&amp;list=PLLM5fRxAaC_e6Oc7yPdaaK_ZUVOyJ09_U&amp;index=1&amp;t=210s" target="_blank">Stargazing Basics 1: learn how to get oriented in the night sky for stargazing</a><br>
+      <a href="http://www.youtube.com/watch?v=9P8Veb_AlJ0&amp;list=PLLM5fRxAaC_e6Oc7yPdaaK_ZUVOyJ09_U&amp;index=2" target="_blank">Stargazing Basics 2: Understanding star magnitude in astronomy</a><br>
+      <a href="http://www.youtube.com/watch?v=YMu5k3Ik7JU&amp;list=PLLM5fRxAaC_e6Oc7yPdaaK_ZUVOyJ09_U&amp;index=3&amp;t=141s" target="_blank">Stargazing Basics 3: How to measure distance in sky to find other stars</a><br>
+      <a href="http://www.youtube.com/watch?v=XLgPe_f-QCc" target="_blank">Astronomy for beginners - Getting started stargazing</a><br>
+      <a href="http://www.youtube.com/watch?v=JnO-5v8qbPo" target="_blank">Backyard Beginners: Watching the sky move</a><br>
+      <a href="http://www.youtube.com/watch?v=Gl9qtBbKhEk" target="_blank">5 simple tips for getting started in stargazing (Sky at Night Magazine)</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/What-Will-You-See-Through-a-Telescope/pc/9/c/192/sc/194/p/99809.uts" target="_blank">What will you see through a telescope (article)</a><br>
+    </div>
+    <br>
+    
+    <span id="selecting" class="links_topic" onclick="showLinksDetails(this)">Selecting a Telescope</span>
+    <div id="D_selecting" class="links_details">
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/How-To-Choose-a-Telescope/pc/9/c/192/sc/194/p/99798.uts" target="_blank">How to choose a telescope (article)</a><br>
+      <a href="http://www.youtube.com/watch?v=goL3K_xQzbE&amp;index=1&amp;list=PLLM5fRxAaC_cx-7xgBfGHGAi9d144AoRZ&amp;t=240s" target="_blank">Telescope Basics 1: Top three telescope types explained</a><br>
+      <a href="http://www.youtube.com/watch?v=gpnB5w_gZsI&amp;index=2&amp;list=PLLM5fRxAaC_cx-7xgBfGHGAi9d144AoRZ" target="_blank">Telescope Basics 2: Learn to calculate magnification for a telescope/understand focal ratios</a><br>
+      <a href="http://www.youtube.com/watch?v=DODk3cJam68&amp;list=PLLM5fRxAaC_cx-7xgBfGHGAi9d144AoRZ&amp;index=3" target="_blank">Telescope Basics 3:  Understand common eyepieces for telescopes</a><br>
+      <a href="http://www.youtube.com/watch?v=9oALhSq0hoY&amp;index=4&amp;list=PLLM5fRxAaC_cx-7xgBfGHGAi9d144AoRZ" target="_blank">Telescope Basics 4: Understanding telescope and apparent field of view in telescopes</a><br>
+      <a href="http://www.youtube.com/watch?v=dpF1_Q5yPsk&amp;list=PLLM5fRxAaC_cx-7xgBfGHGAi9d144AoRZ&amp;index=5" target="_blank">Telescope Basics 5: Learn the basics about larlow lenses for telescopes</a><br>
+      <a href="http://www.youtube.com/watch?v=waPj5AkXirs&amp;list=PLLM5fRxAaC_cx-7xgBfGHGAi9d144AoRZ&amp;index=6" target="_blank">Telescope Basics 6: Understanding telesope finders, types, and alignment</a><br>
+    </div>
+    <br>
+  
+    <span id="basics" class="links_topic" onclick="showLinksDetails(this)">Telescope Basics</span>
+    <div id="D_basics" class="links_details">
+      <a href="http://www.youtube.com/watch?v=2oG73hVHzf0&amp;index=4&amp;list=PL8E8362735A736A30" target="_blank">Getting started with your new astronomy telescope</a><br>
+      <a href="http://www.youtube.com/watch?v=zQB6UnrTEEM" target="_blank">Choosing &amp; Using telescope mounts</a><br>
+      <a href="http://www.youtube.com/watch?v=VtAwdO0Dhnc&amp;t=200s" target="_blank">Why is my image upside down?</a><br>
+      <a href="http://www.youtube.com/watch?v=YmT7D6ZIPHQ" target="_blank">How to setup a Celestron 9.25 Goto telescope</a><br>
+      <a href="http://www.youtube.com/watch?v=KLRzVoXpPaE" target="_blank">How to set up the CGX-L tripod &amp; Mount (Celestron)</a><br>
+      <a href="http://www.youtube.com/watch?v=T-HGFavzZfg&amp;t=366s" target="_blank">Amateur Astronomy Video 2 - Parts of the Telescope</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/Image-Orientation/pc/9/c/192/sc/194/p/99816.uts" target="_blank">Image orientation  (article)</a><br>
+      <a href="http://www.youtube.com/watch?v=MkxtdtrAh6A" target="_blank">Amateur astronomy video 3 - accessories </a><br>
+    </div>
+    <br>
+  
+    <span id="finderscope" class="links_topic" onclick="showLinksDetails(this)">Finderscope</span>
+    <div id="D_finderscope" class="links_details">
+      <a href="http://www.youtube.com/watch?v=pH4MksauCjY" target="_blank">How to align your finderscope</a><br>
+      <a href="http://www.youtube.com/watch?v=r3zGgrY7sK8" target="_blank">How to align a finderscoe for new astronomers</a><br>
+    </div>
+    <br>
+  
+    <span id="equatorial" class="links_topic" onclick="showLinksDetails(this)">Equatorial Mounts</span>
+    <div id="D_equatorial" class="links_details">
+      <a href="http://www.youtube.com/watch?v=plx6XXDgf2E&amp;index=1&amp;list=PLLM5fRxAaC_fxTiSQxQ_csdXof0LG4zh7&amp;t=26s" target="_blank">How to align an equatorial mount</a><br>
+      <a href="http://www.youtube.com/watch?v=F7HVDKAZ6eM&amp;list=PLLM5fRxAaC_fxTiSQxQ_csdXof0LG4zh7&amp;index=3" target="_blank">How to use an equatorial mount for amateur telescopes</a><br>
+      <a href="http://www.youtube.com/watch?v=Lh9Vwk7UUkA" target="_blank">How to use an equatorial mount for beginners</a><br>
+      <a href="http://www.youtube.com/watch?v=TdkB5NCnFps" target="_blank">Setting up a german equatorial mount</a><br>
+      <a href="http://www.youtube.com/watch?v=V3cWcj4Fb1A" target="_blank">Balancing an equatorial mount with Chris Hendren</a><br>
+      <a href="http://www.youtube.com/watch?v=FR8s2ws5Amg" target="_blank">Backyard Beginners: How to use an equatorial telescope mount</a><br>
+    </div>
+    <br>
+  
+    <span id="polar" class="links_topic" onclick="showLinksDetails(this)">Polar Alignment</span>
+    <div id="D_polar" class="links_details">
+      <a href="http://www.youtube.com/watch?v=xY4Fo5ESubI" target="_blank">Telescope Tips: Setting up telescope polar alignment</a><br>
+      <a href="http://www.youtube.com/watch?v=reW_s59jYKw" target="_blank">Polar Scope - how to use a polar scope</a><br>
+      <a href="http://www.youtube.com/watch?v=G34fzcqwdIc&amp;t=49s" target="_blank">How to align your Celestron polar finder scope during the daytime</a><br>
+      <a href="http://www.youtube.com/watch?v=Sbn8RkhbPdU&amp;t=36s" target="_blank">Polar finder scope for Celestron CGEM mount</a><br>
+      <a href="http://www.youtube.com/watch?v=J8xKnX8oKfw" target="_blank">How to polar align your telescope mount - EQ polar alignment</a><br>
+      <a href="http://www.youtube.com/watch?v=rPdQ9pU9GJA" target="_blank">Polar alignment in daytime by Fongky VP of StarFinder</a><br>
+      <a href="http://www.youtube.com/watch?v=35E9Lqjypz8" target="_blank">How to polar align a telescope in the southern hemisphere</a><br>
+    </div>
+    <br>
+  
+    <span id="tips" class="links_topic" onclick="showLinksDetails(this)">Tips &amp; Tricks</span>
+    <div id="D_tips" class="links_details">
+      <a href="http://www.youtube.com/watch?v=bM9g18Q109o&amp;list=PL8E8362735A736A30&amp;index=7" target="_blank">Observing planets: optimising your views</a><br>
+      <a href="http://www.youtube.com/watch?v=UPoh76f60kA&amp;index=8&amp;list=PL8E8362735A736A30" target="_blank">Top 20 Astronomy Tips</a><br>
+      <a href="http://www.youtube.com/watch?v=Iobz-RJAbOI&amp;index=9&amp;list=PL8E8362735A736A30" target="_blank">Top 5 tips for improving planetary view withyour telescope</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/How-To-Thermally-Optimize-Your-Telescope/pc/9/c/192/sc/194/p/116953.uts" target="_blank">How to thermally optimize your telescope (article)</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/Dealing-With-Dew/pc/9/c/192/sc/194/p/99802.uts" target="_blank">Dealing with dew (article)</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/Seeing-in-the-Dark/pc/9/c/192/sc/194/p/99833.uts" target="_blank">Seeing in the dark (article)</a><br>
+      <a href="http://www.youtube.com/watch?v=rDfcrmtYz_s&amp;t=389s" target="_blank">Filters - Enhancing lunar observation</a><br>
+      <a href="http://www.youtube.com/watch?v=gTRLALIav2w" target="_blank">Features of the Orion 1.25" basic color filter set </a><br>
+      <a href="http://www.youtube.com/watch?v=8G98RTP6jbY" target="_blank">Collimating your reflecting telescope in a few minutes</a><br>
+      <a href="http://www.youtube.com/watch?v=YAVGcGEBmCE" target="_blank">How to Collimate a telescope - (Orion telescoes &amp; Binoculars)</a><br>
+      <a href="http://www.youtube.com/watch?v=hqRVIDj4aZA" target="_blank">Collimating your Schmidt-Cassegrain telescope in a few minutes</a><br>
+    </div>
+    <br>
+  
+    <span id="astrophotography" class="links_topic" onclick="showLinksDetails(this)">Astrophotography</span>
+    <div id="D_astrophotography" class="links_details">
+      <a href="http://www.youtube.com/watch?v=y3KXd1BLMLs&amp;list=PL8E8362735A736A30&amp;index=1" target="_blank">Astrophotography with German equatorial mounts</a><br>
+      <a href="http://www.youtube.com/watch?v=k0FIluj9ndQ" target="_blank">Bahtinov mask to focus on a star (focusing tips)</a><br>
+      <a href="http://www.youtube.com/watch?v=9d0292TBMHo" target="_blank">Astrophotography P1: Telesope OTAs</a><br>
+      <a href="http://www.youtube.com/watch?v=zQB6UnrTEEM" target="_blank">Astrophotography P2:  Choosing &amp; Using telescope mounts</a><br>
+      <a href="http://www.youtube.com/watch?v=sW8NyT3r2LU" target="_blank">Astrophotography P3: Guiding your telescope</a><br>
+      <a href="http://www.youtube.com/watch?v=e0JSTF8SGi4" target="_blank">Astrophotography without a star tracker</a><br>
+      <a href="http://www.telescope.com/Getting-Started/Astrophotography-Basics/pc/460/com/463.uts" target="_blank">Astrophotography Basics (Orion Telescope beginner series)</a><br>
+      <a href="http://www.youtube.com/watch?v=Oj8aDpUSmAo" target="_blank">How to make videos and pictures of the moon - telescope</a><br>
+      <a href="http://www.youtube.com/watch?v=O6xR-OQnysE&amp;t=18s" target="_blank">How to create darks, flats, &amp; bias (astrophotography calibration)</a><br>
+    </div>
+    <br>
+  
+    <span id="solar" class="links_topic" onclick="showLinksDetails(this)">Solar Astronomy</span>
+    <div id="D_solar" class="links_details">
+      <a href="http://www.youtube.com/watch?v=avxnK7MGYIA&amp;index=2&amp;list=PLLM5fRxAaC_fxTiSQxQ_csdXof0LG4zh7" target="_blank">How to view the sun safely - eclipses, sunspots</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/Observing-The-Sun/pc/9/c/192/sc/194/p/99839.uts" target="_blank">Observing the sun (article)</a><br>
+      <a href="http://www.youtube.com/watch?v=hQfO1ilgPYE" target="_blank">Safe solar observation (accessories)</a><br>
+    </div>
+    <br>
+  
+    <span id="what" class="links_topic" onclick="showLinksDetails(this)">What to See</span>
+    <div id="D_what" class="links_details">
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/Observing-Double-Stars/pc/9/c/192/sc/194/p/99836.uts" target="_blank">Observing double stars (article)</a><br>
+      <a href="http://www.telescope.com/Articles/Equipment/Telescopes/Observing-Variable-Stars/pc/9/c/192/sc/194/p/99837.uts" target="_blank">Observing variable stars (article)</a><br>
+    </div>
+    <br>
+  
+    <span id="magazines" class="links_topic" onclick="showLinksDetails(this)">Magazines</span>
+    <div id="D_magazines" class="links_details">
+      <a href="http://www.astronomy.com" target="_blank">Astronomy</a><br>
+         <div class="links_comment">Published by Kalmbach Publishing</div>
+      <a href="http://www.SkyandTelescope.com" target="_blank">Sky &amp; Telescope</a><br>
+         <div class="links_comment">Published by Sky Publishing Corporation</div>
+    </div>
+    <br>
+  
+    <span id="stores" class="links_topic" onclick="showLinksDetails(this)">Bay Area Stores</span>
+    <div id="D_stores" class="links_details">
+      <a href="http://www.scopecity.com" target="_blank">Scope City</a><br>
+         <div class="links_comment">350 Bay St., San Francisco 415-421-8800<br>They still advertise but seem to have gone
+  	out of business.</div>
+    </div>
+    <br>
+  
+    <span id="clubs" class="links_topic" onclick="showLinksDetails(this)">Bay Area Clubs</span>
+    <div id="D_clubs" class="links_details">
+      <a href="http://www.trivalleystargazers.org" target="_blank">Tri-Valley Stargazers</a><br>
+         <div class="links_comment">That's us!</div>
+      <a href="https://groups.io/g/trivalleystargazers" target="_blank">TVS discussion group</a><br>
+         <div class="links_comment">That's us too!</div>
+      <a href="http://www.eastbayastro.org" target="_blank">Eastbay Astronomical Society</a><br>
+         <div class="links_comment">(EAS): Meets at the Chabot Space &amp; Science Center in Oakland. Home to the Telescope
+  	Makers' Workshop, where anyone can come build their own telescope.</div> 
+      <a href="http://www.chabotspace.org" target="_blank">Chabot Space and Science Center</a><br>
+         <div class="links_comment">(CSSC): In the Oakland Hills. Free telescope observing on Friday and Saturday nights
+  	(weather permitting) using their 8&quot; Alvan Clark refractor (1883), 20&quot; John Brasher/Warner &amp; Swasey
+  	refractor (1915), and their new 36&quot; classic cassegrain reflector (2003).</div> 
+      <a href="http://observers.org" target="_blank">The Astronomy Connection</a><br>
+         <div class="links_comment">(TAC): An internet based group of amateurs, based primarily in the south bay.</div>
+      <a href="http://www.fpoa.net" target="_blank">Fremont Peak Observatory Association</a><br>
+         <div class="links_comment">(FPOA): FPOA runs the telescope on top of Fremont Peak near San Juan Bautista.</div>
+      <a href="http://www.mdas.net" target="_blank">The Mount Diablo Astronomical Society</a><br>
+         <div class="links_comment">(MDAS): During the summer they have public star parties on Mt. Diablo. They meet in
+  	north Concord.</div> 
+      <a href="http://www.sjaa.net" target="_blank">The San Jose Astronomical Association</a><br>
+         <div class="links_comment">(SJAA): SJAA holds auctions and swap meets twice a year.</div>
+      <a href="http://www.aanc-astronomy.org" target="_blank">The Astronomical Association of Northern California</a><br>
+         <div class="links_comment">(AANC): This organization encompasses a lot of the clubs in the Bay Area.</div>
+    </div>
+    <br>
+  
+  </div>	<!-- links_holder -->
+  <br><br>
+
+<!--#include virtual="trailer.shtml" -->
+
+</body>
